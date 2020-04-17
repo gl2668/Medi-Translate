@@ -51,7 +51,7 @@ ui <- fluidPage(
                         tabPanel("Info",
                                  br(),
                                  p("Thank you for visiting this page! Medi-Translate is a web-app inspired by the incredible work
-                                 from Sudesna, which you can find",
+                                 from Sudesna Chowdhury, which you can find",
                                    tags$a(href="https://sudesnaroychowdhury.wixsite.com/covid", "here!"), "We hope to provide a 
                                  platform that facilitates simple to use language translation of frequently used medical instructions
                                  and questions. Hopefully, this tool can help enhance medical assistance and communication between 
@@ -63,7 +63,8 @@ ui <- fluidPage(
                                  website."), 
                                  br(),
                                  p("If you have any questions / feedback or would like to contribute, please feel free to 
-                                 shoot me an email at gl2668@columbia.edu. I welcome and greatly appreciate it!"))
+                                 shoot me an email at gl2668@columbia.edu. I welcome and greatly appreciate it!",
+                                   tags$a(href="https://github.com/gl2668/Medi-Translate", "Github link here.")))
             ), width = 9
         )
     )

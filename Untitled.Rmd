@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Turn CSV to rds file"
 output: html_document
 ---
 
@@ -16,14 +16,12 @@ p_load(data.table)
 
 
 ```{r}
+# Import csv file
 data <- fread('medi_translate.csv')
-```
 
-```{r}
+# Save as RDS format
 saveRDS(data, file = 'medi-translate.rds')
 ```
 
-```{r}
-data
-```
+
 

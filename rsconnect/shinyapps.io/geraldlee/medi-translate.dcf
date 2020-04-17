@@ -5,8 +5,8 @@ account: geraldlee
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2134550
-bundleId: 3027264
+bundleId: 3027460
 url: https://geraldlee.shinyapps.io/medi-translate/
-when: 1587134174.61806
+when: 1587136815.19243
 asMultiple: FALSE
 asStatic: FALSE
