@@ -1,0 +1,29 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+```{r}
+library(pacman)
+p_load(data.table)
+```
+
+
+```{r}
+data <- fread('medi_translate.csv')
+```
+
+```{r}
+saveRDS(data, file = 'medi-translate.rds')
+```
+
+```{r}
+data
+```
+
