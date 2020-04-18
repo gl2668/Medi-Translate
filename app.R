@@ -27,7 +27,7 @@ ui <- fluidPage(
         sidebarPanel(
             selectInput(inputId = "language", 
                         label = "Language",
-                        choices = c("Bengali", "Bulgarian", "Chinese", "French", "German", "Hindi", "Italian", "Korean", "Malay", "Portugese", "Tamil", "Telugu", "Turkish", "Vietnamese"
+                        choices = c("Bengali", "Bulgarian", "Chinese", "French", "German", "Hindi", "Italian", "Korean", "Malay", "Portugese", "Spanish", "Tamil", "Telugu", "Turkish", "Vietnamese"
                         )),
             selectInput(inputId = "category", 
                         label = "Category",

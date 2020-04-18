@@ -1516,3 +1516,108 @@ We are going to sit you up,Chúng tôi sẽ đỡ anh/chị ngồi dậy,Vietnam
 We are going to shift you up the bed,Chúng tôi sẽ kéo anh/chị lên đầu giướng nhé,Vietnamese,Medical Instructions
 We are going to clean your mouth,Chúng tôi sẽ lau miệng cho anh/chị,Vietnamese,Medical Instructions
 Do not swallow the gargle,"Đừng nuốt nước súc miệng, chỉ súc vòng quanh thôi",Vietnamese,Medical Instructions
+I am a doctor. I do not speak Spanish. I will communicate with you using this website. Answer me in English as much as possible. Thank you.,Soy un doctor. Yo no hablo español. Me comunicaré con usted a través de este sitio web. contestarme en Inglés tanto como sea posible. Gracias.,Spanish,Greetings
+What's your name?,¿Como te llamas?,Spanish,Greetings
+Please give me your Identitification Card / Work Permit,"Por favor, dame tu permiso de trabajo / Tarjeta Identitification",Spanish,Greetings
+"In the last 14 days, did you meet anyone who has coronavirus?","En los últimos 14 días, se conocieron cualquier persona que tenga coronavirus?",Spanish,Contact with Others
+Who? What is your relationship with them?,¿Quién? ¿Cuál es su relación con ellos?,Spanish,Contact with Others
+How many days ago did you meet them? (There is a number chart in the sidebar if they cannot answer),¿Cuántos días hace que dejó de reunirse con ellos? (Hay una tabla de números en la barra lateral si no pueden responder),Spanish,Contact with Others
+How long were you with him/her?,¿Cuánto tiempo estuvo con él / ella?,Spanish,Contact with Others
+"In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.","En los últimos 14 días, viajaste fuera de Singapur? Si es así, nos dicen los países en Inglés.",Spanish,Contact with Others
+Do you have a fever?,¿Tienes fiebre?,Spanish,Symptoms
+"How many days?
+(You may use this for multiple symptoms)","¿Cuántos días?
+(Usted puede usar esto para múltiples síntomas)",Spanish,Symptoms
+"Did you measure it with a thermometer? If you did, what was the highest reading?","Se ha medido con un termómetro? Si es así, ¿cuál fue la lectura más alta?",Spanish,Symptoms
+Runny nose?,¿Nariz que moquea?,Spanish,Symptoms
+Cough?,¿Tos?,Spanish,Symptoms
+Sore throat?,¿Dolor de garganta?,Spanish,Symptoms
+Difficulty breathing?,¿Respiración dificultosa?,Spanish,Symptoms
+Do you have diarrhoea? How many times a day?,¿Tiene diarrea? ¿Cuántas veces al día?,Spanish,Symptoms
+Rash?,¿Erupción?,Spanish,Symptoms
+"Any pain? Specifically, any chest pain?","¿Cualquier dolor? En concreto, cualquier dolor en el pecho?",Spanish,Symptoms
+Point to the place.,Apuntar al lugar.,Spanish,Symptoms
+Do you have any past medical history?,¿Tiene alguna historia médica pasada?,Spanish,Medical Conditions
+Please point to which ones.,Por favor apuntar a cuáles.,Spanish,Medical Conditions
+Asthma,Asma,Spanish,Medical Conditions
+Pneumonia,Neumonía,Spanish,Medical Conditions
+Hypertension,Hipertensión,Spanish,Medical Conditions
+Hyperlipidemia,hiperlipidemia,Spanish,Medical Conditions
+Diabetes,Diabetes,Spanish,Medical Conditions
+Heart problems,Problemas del corazón,Spanish,Medical Conditions
+Kidney problems,Problemas de riñon,Spanish,Medical Conditions
+Loss of taste,Pérdida del gusto,Spanish,Symptoms
+Lost of Smell,Perdida del olfato,Spanish,Symptoms
+Do you have a drug allergy?,¿Tiene una alergia a medicamentos?,Spanish,Medical Conditions
+"Do you smoke? If yes, how many cigarettes a day?","¿Fumas? Si sí, ¿cuántos cigarrillos al día?",Spanish,Medical Conditions
+"Do you drink? If yes, how much (number of bottles a week, type of alcohol)?","¿Tu bebes? Si es así, ¿cuánto (número de botellas a la semana, tipo de alcohol)?",Spanish,Medical Conditions
+"If you have any other problems, you can tell me in English.","Si tiene cualquier otro problema, puede decirme en Inglés.",Spanish,Medical Conditions
+I’m going to examine you.,Voy a examinarle.,Spanish,Medical Instructions
+Tell me if you feel more pain.,Dime si se siente más dolor.,Spanish,Medical Instructions
+Please remove your shirt.,"Por favor, elimine la camisa.",Spanish,Medical Instructions
+Keep taking deep breaths through your mouth.,Mantener al respirar profundamente por la boca.,Spanish,Medical Instructions
+"Say ""99"" when I listen with my stethoscope.","Decir ""99"" cuando escucho con mi estetoscopio.",Spanish,Medical Instructions
+I'm going to put this cotton bud into your nostril. You will feel strange but it is not painful,"Voy a poner este bastoncillo de algodón en su fosa nasal. Usted se sentirá extraño, pero no es doloroso",Spanish,Medical Instructions
+This is to test for coronavirus,Esto es a prueba de coronavirus,Spanish,Medical Instructions
+Tilt your head back,Incline la cabeza de la espalda,Spanish,Medical Instructions
+"If coronavirus positive, we call your phone by tomorrow.","Si es positivo coronavirus, que llamamos su teléfono para mañana.",Spanish,Medical Instructions
+"If coronavirus negative, we send you SMS (text) after 3 days","Si es negativo coronavirus, que le enviamos SMS (texto) después de 3 días",Spanish,Medical Instructions
+"Later, you will do an X-ray","Más tarde, que va a hacer una radiografía",Spanish,Medical Instructions
+There is no sign of infection on your X-ray,No hay ninguna señal de infección en su X-ray,Spanish,Medical Instructions
+You can go back soon.,Puede volver pronto.,Spanish,Medical Instructions
+"Wait here, do not leave this area","Espera aquí, no deje esta área",Spanish,Medical Instructions
+You have to stay in the hospital for a few days,Usted tiene que permanecer en el hospital durante unos días,Spanish,Medical Instructions
+We need to transfer you to another location.,Necesitamos para trasladarlos a otro lugar.,Spanish,Medical Instructions
+I'll give you medicine to make you feel better,Te voy a dar la medicina para que se sienta mejor,Spanish,Medical Instructions
+You must not work for next 5 days.,No se debe trabajar para los próximos 5 días.,Spanish,Medical Instructions
+You must come back if you have problems with breathing.,Debe volver si usted tiene problemas con la respiración.,Spanish,Medical Instructions
+You must come back if you do not recover completely after 5 days,Debe volver si no se recupera completamente después de 5 días,Spanish,Medical Instructions
+Read the handout carefully,Lea cuidadosamente el folleto,Spanish,Medical Instructions
+Thank you,Gracias,Spanish,Greetings
+Good morning / afternoon / evening,Buena mañana tarde noche,Spanish,Greetings
+I am the nurse,Soy la enfermera,Spanish,Greetings
+I am the doctor,Yo soy el médico,Spanish,Greetings
+You are in the intensive care unit.,Usted está en la unidad de cuidados intensivos.,Spanish,Medical Instructions
+Today is Monday,Hoy es Lunes,Spanish,Greetings
+Today is Tuesday,Hoy es martes,Spanish,Greetings
+Today is Wednesday,Hoy es Miercoles,Spanish,Greetings
+Today is Thursday,Hoy es Jueves,Spanish,Greetings
+Today is Friday,Hoy es viernes,Spanish,Greetings
+Today is Saturday,Hoy es sábado,Spanish,Greetings
+Today is Sunday,Hoy es domingo,Spanish,Greetings
+You are getting better,Estás mejorando,Spanish,Greetings
+We will remove the breathing tube when you are better,Vamos a retirar el tubo de respiración cuando usted es mejor,Spanish,Medical Instructions
+You can talk after we remove the breathing tube,Se puede hablar después de retirar el tubo de respiración,Spanish,Medical Instructions
+Take a deep breath,Tomar una respiración profunda,Spanish,Medical Instructions
+Give me a big cough,Dame un gran tos,Spanish,Medical Instructions
+Don’t struggle,No luches,Spanish,Medical Instructions
+Don’t move,No se mueva,Spanish,Medical Instructions
+Lift up your arm,Levante el brazo,Spanish,Medical Instructions
+Lift up your leg,Levante la pierna,Spanish,Medical Instructions
+Squeeze my hand,Aprieta mi mano,Spanish,Medical Instructions
+Show me two fingers,me muestran dos dedos,Spanish,Medical Instructions
+Open your mouth,Abre la boca,Spanish,Medical Instructions
+Stick out your tongue,Saca la lengua,Spanish,Medical Instructions
+Open your eyes,Abre tus ojos,Spanish,Medical Instructions
+I’m going to shine a light into your eyes. It will be bright.,Voy a brillar una luz en sus ojos. Será brillante.,Spanish,Medical Instructions
+Your lungs are weak. We are going to insert a breathing tube to help you breathe,Sus pulmones son débiles. Vamos a insertar un tubo de respiración para ayudarle a respirar,Spanish,Medical Instructions
+You are going to sleep now,Te vas a dormir ahora,Spanish,Medical Instructions
+We are turning you onto your belly to help your lungs expand,Le estamos dando vuelta sobre su vientre para ayudar a sus pulmones se expanden,Spanish,Medical Instructions
+We are inserting a tube to help you pass urine,Estamos insertando un tubo para ayudarle a pasar la orina,Spanish,Medical Instructions
+We are inserting a tube through your nose,Estamos insertando un tubo por la nariz,Spanish,Medical Instructions
+We are going to give you an injection in your neck to give you medications,Vamos a darle una inyección en el cuello para darle medicamentos,Spanish,Medical Instructions
+We are going to give you an injection in your arm to measure your blood pressure,Vamos a darle una inyección en el brazo para medir la presión sanguínea,Spanish,Medical Instructions
+We will give you sleeping medications.,Le daremos medicamentos para dormir.,Spanish,Medical Instructions
+We will give you painkillers.,Le daremos analgésicos.,Spanish,Medical Instructions
+We are giving you medication to keep your blood pressure up.,Le estamos dando medicamentos para mantener su presión arterial para arriba.,Spanish,Medical Instructions
+We are going to remove the breathing tube.,Vamos a quitar el tubo de respiración.,Spanish,Medical Instructions
+We are going to suck out your phlegm,Vamos a chupar su flema,Spanish,Medical Instructions
+We are going to clean you with a sponge,Vamos a que limpiar con una esponja,Spanish,Medical Instructions
+Turn left,gire a la izquierda,Spanish,Medical Instructions
+Turn right,Girar a la derecha,Spanish,Medical Instructions
+We will change your diapers,Vamos a cambiar los pañales,Spanish,Medical Instructions
+Lift up your leg,Levante la pierna,Spanish,Medical Instructions
+We are going to sit you up,Nos vamos a sentar para arriba,Spanish,Medical Instructions
+We are going to shift you up the bed,Vamos a cambiar hacia arriba que la cama,Spanish,Medical Instructions
+We are going to clean your mouth,Vamos a limpiar la boca,Spanish,Medical Instructions
+Do not swallow the gargle,No se trague el gárgaras,Spanish,Medical Instructions
