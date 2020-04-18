@@ -1,5 +1,5 @@
 Text,Translation,Language,Category
-What is the name of the dorm you live in?,আপনি সিঙ্গাপুরে যে জায়গাতে থাকেন তার নাম কি?,Bengali,Contact with Others
+What is the name of the place you live in?,আপনি সিঙ্গাপুরে যে জায়গাতে থাকেন তার নাম কি?,Bengali,Contact with Others
 Is it a cluster?,আপনার কি কোনো বন্ধু ওখানে থাকেন যার কোভিড সংক্রমণ হয়েছে?,Bengali,Contact with Others
 How many people are staying in the same room as you?,আপনারা কতজন মিলে এক রুমে থাকেন?,Bengali,Contact with Others
 "In the last 14 days, did you meet anyone who has coronavirus?","গত ১৪ দিনে, আপনি কি কারোর সাথে দেখা করেছেন যার কারোনাভাইরাস আছে?",Bengali,Contact with Others
@@ -674,7 +674,7 @@ We are going to sit you up,Stiamo andando a sedersi in su,Italian,Medical Instru
 We are going to shift you up the bed,Ci accingiamo a spostare in sul letto,Italian,Medical Instructions
 We are going to clean your mouth,Stiamo andando a pulire la bocca,Italian,Medical Instructions
 Do not swallow the gargle,Non ingoiare il gargarismo,Italian,Medical Instructions
-I am a doctor. I do not speak Spanish. I will communicate with you using this website. Answer me in English as much as possible. Thank you.,"Sou um médico. Eu não falo espanhol. Vou comunicar com você usando este site. Responda-me em Inglês, tanto quanto possível. Obrigado.",Portugese,Greetings
+I am a doctor. I do not speak Portugese. I will communicate with you using this website. Answer me in English as much as possible. Thank you.,"Sou um médico. Eu não falo espanhol. Vou comunicar com você usando este site. Responda-me em Inglês, tanto quanto possível. Obrigado.",Portugese,Greetings
 What's your name?,¿Como te llamas?,Portugese,Greetings
 Please give me your Identitification Card / Work Permit,"Por favor, dame tu permiso de trabajo / Tarjeta Identitification",Portugese,Greetings
 "In the last 14 days, did you meet anyone who has coronavirus?","En los últimos 14 días, se conocieron cualquier persona que tenga coronavirus?",Portugese,Contact with Others
@@ -884,108 +884,635 @@ We are going to sit you up,Wir werden Sie sitzen,German,Medical Instructions
 We are going to shift you up the bed,Wir werden Sie auf dem Bett verschieben,German,Medical Instructions
 We are going to clean your mouth,Wir werden den Mund reinigen,German,Medical Instructions
 Do not swallow the gargle,Nicht schlucken das Gurgeln,German,Medical Instructions
-I am a doctor. I do not speak Malay. I will communicate with you using this website. Answer me in English as much as possible. Thank you.,Saya seorang doktor. Saya tidak bercakap Melayu. Saya akan berkomunikasi dengan anda menggunakan laman web ini. Jawapan saya dalam bahasa Inggeris sebanyak mungkin. Terima kasih.,Malay,Greetings
-What's your name?,Apa nama anda?,Malay,Greetings
-Please give me your Identitification Card / Work Permit,Sila berikan saya Permit Kerja / Kad Identitification anda,Malay,Greetings
-"In the last 14 days, did you meet anyone who has coronavirus?","Dalam 14 hari yang lalu, adakah anda bertemu sesiapa sahaja yang mempunyai coronavirus?",Malay,Contact with Others
-Who? What is your relationship with them?,Who? Apakah hubungan anda dengan mereka?,Malay,Contact with Others
-How many days ago did you meet them? (There is a number chart in the sidebar if they cannot answer),Berapa hari yang lalu adakah anda bertemu dengan mereka? (Terdapat carta nombor dalam bar sisi jika mereka tidak dapat menjawab),Malay,Contact with Others
-How long were you with him/her?,Berapa lama anda dengan dia / dia?,Malay,Contact with Others
-"In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.","Dalam 14 hari yang lalu, adakah anda melancong ke luar Singapura? Jika ya, beritahu kami negara-negara dalam bahasa Inggeris.",Malay,Contact with Others
-Do you have a fever?,Adakah anda mempunyai demam?,Malay,Symptoms
+I am a doctor. I do not speak Malay. I will communicate with you using this website. Answer me in English as much as possible. Thank you.,"Saya doktor. 
+Saya tak boleh cakap Melayu. 
+Saya akan cakap menerusi laman web ini. 
+Tolong jawab dalam Inggeris sebanyak mungkin. 
+Terima kasih.",Malay,Greetings
+What's your name?,Nama siapa?,Malay,Greetings
+Please give me your Identitification Card / Work Permit,Tolong beri saya Permit Kerja anda.,Malay,Greetings
+"In the last 14 days, did you meet anyone who has coronavirus?","Sepanjang 2 minggu lepas, anda ada jumpa dengan sesiapa yang ada koronavirus?",Malay,Contact with Others
+Who? What is your relationship with them?,Siapa? Apakah hubungan dia / mereka?,Malay,Contact with Others
+How many days ago did you meet them? (There is a number chart in the sidebar if they cannot answer),Berapa hari lepas jumpa dia / mereka?,Malay,Contact with Others
+How long were you with him/her?,Berapa lama dengan dia / mereka?,Malay,Contact with Others
+"In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.","Sepanjang 2 minggu lepas, anda ada pergi luar negara atau tak? Sekiranya ya, beritahu kami nama-nama negara tersebut dalam Inggeris.",Malay,Contact with Others
+Do you have a fever?,Ada demam tak?,Malay,Symptoms
 "How many days?
-(You may use this for multiple symptoms)","Berapa hari?
-(Anda boleh menggunakan ini untuk pelbagai simptom)",Malay,Symptoms
-"Did you measure it with a thermometer? If you did, what was the highest reading?","Adakah anda mengukurnya dengan termometer? Jika anda lakukan, apa yang bacaan yang paling tinggi?",Malay,Symptoms
-Runny nose?,Hidung berair?,Malay,Symptoms
+(You may use this for multiple symptoms)",Sudah berapa hari?,Malay,Symptoms
+"Did you measure it with a thermometer? If you did, what was the highest reading?","Ada gunakan termometer atau tak? Jika ya, apakah suhu badan tertinggi?",Malay,Symptoms
+Runny nose?,Selsema?,Malay,Symptoms
 Cough?,Batuk?,Malay,Symptoms
 Sore throat?,Sakit tekak?,Malay,Symptoms
-Difficulty breathing?,Kesukaran bernafas?,Malay,Symptoms
-Do you have diarrhoea? How many times a day?,Adakah anda mengalami cirit-birit? Berapa kali sehari?,Malay,Symptoms
-Rash?,Rash?,Malay,Symptoms
-"Any pain? Specifically, any chest pain?","Sakit? Secara khusus, sakit dada?",Malay,Symptoms
-Point to the place.,Menunjukkan tempat itu.,Malay,Symptoms
-Do you have any past medical history?,Adakah anda mempunyai apa-apa sejarah perubatan lalu?,Malay,Medical Conditions
-Please point to which ones.,Sila menunjukkan yang mana.,Malay,Medical Conditions
-Asthma,asma,Malay,Medical Conditions
-Pneumonia,Pneumonia,Malay,Medical Conditions
-Hypertension,tekanan darah tinggi,Malay,Medical Conditions
-Hyperlipidemia,hiperlipidemia,Malay,Medical Conditions
-Diabetes,diabetes,Malay,Medical Conditions
+Difficulty breathing?,Sesak nafas?,Malay,Symptoms
+Do you have diarrhoea? How many times a day?,Ada cirit-birit tak? Buang air besar berapa kali sehari?,Malay,Symptoms
+Rash?,Ruam?,Malay,Symptoms
+"Any pain? Specifically, any chest pain?","Ada rasa sakit? Khususnya, ada sakit dada atau pun tidak?",Malay,Symptoms
+Point to the place.,"Guna satu jari, tunjuk saya mana sakit?",Malay,Symptoms
+Do you have any past medical history?,Ada sakit kronik tak? Apa penyakit tersebut?,Malay,Medical Conditions
+Please point to which ones.,Tunjukkan yang mana,Malay,Medical Conditions
+Asthma,Semput,Malay,Medical Conditions
+Pneumonia,Radang paru-paru,Malay,Medical Conditions
+Hypertension,Tekanan darah tinggi,Malay,Medical Conditions
+Hyperlipidemia,Kolesterol tinggi,Malay,Medical Conditions
+Diabetes,Kencing manis,Malay,Medical Conditions
 Heart problems,Masalah jantung,Malay,Medical Conditions
-Kidney problems,masalah buah pinggang,Malay,Medical Conditions
-Loss of taste,Kehilangan rasa,Malay,Symptoms
-Lost of Smell,Hilang Bau,Malay,Symptoms
-Do you have a drug allergy?,Adakah anda mempunyai alahan ubat?,Malay,Medical Conditions
-"Do you smoke? If yes, how many cigarettes a day?","Adakah anda merokok? Jika ya, berapa banyak rokok sehari?",Malay,Medical Conditions
-"Do you drink? If yes, how much (number of bottles a week, type of alcohol)?","Adakah kamu minum? Jika ya, berapa banyak (bilangan botol seminggu, jenis alkohol)?",Malay,Medical Conditions
-"If you have any other problems, you can tell me in English.","Jika anda mempunyai sebarang masalah lain, anda boleh beritahu saya dalam bahasa Inggeris.",Malay,Medical Conditions
-I’m going to examine you.,Saya akan memeriksa anda.,Malay,Medical Instructions
-Tell me if you feel more pain.,Beritahu saya jika anda berasa lebih sakit.,Malay,Medical Instructions
-Please remove your shirt.,Sila keluarkan baju anda.,Malay,Medical Instructions
-Keep taking deep breaths through your mouth.,Terus mengambil nafas dalam-dalam melalui mulut anda.,Malay,Medical Instructions
-"Say ""99"" when I listen with my stethoscope.","Mengatakan ""99"" apabila saya mendengar dengan stetoskop saya.",Malay,Medical Instructions
-I'm going to put this cotton bud into your nostril. You will feel strange but it is not painful,Saya akan meletakkan putik kapas ini ke dalam lubang hidung anda. Anda akan berasa pelik tetapi ia tidak menyakitkan,Malay,Medical Instructions
-This is to test for coronavirus,Ini adalah untuk ujian bagi coronavirus,Malay,Medical Instructions
-Tilt your head back,Sengetkan belakang kepala anda,Malay,Medical Instructions
-"If coronavirus positive, we call your phone by tomorrow.","Jika positif coronavirus, kita panggil telefon anda dengan esok.",Malay,Medical Instructions
-"If coronavirus negative, we send you SMS (text) after 3 days","Jika coronavirus negatif, kami menghantar SMS (teks) selepas 3 hari",Malay,Medical Instructions
-"Later, you will do an X-ray","Kemudian, anda akan melakukan X-ray",Malay,Medical Instructions
-There is no sign of infection on your X-ray,Tidak ada tanda-tanda jangkitan pada sinar-X anda,Malay,Medical Instructions
-You can go back soon.,Anda boleh kembali tidak lama lagi.,Malay,Medical Instructions
-"Wait here, do not leave this area","Tunggu di sini, tidak meninggalkan kawasan ini",Malay,Medical Instructions
-You have to stay in the hospital for a few days,Anda perlu tinggal di hospital selama beberapa hari,Malay,Medical Instructions
-We need to transfer you to another location.,Kita perlu memindahkan anda ke lokasi yang lain.,Malay,Medical Instructions
-I'll give you medicine to make you feel better,Saya akan memberikan anda ubat untuk membuat anda berasa lebih baik,Malay,Medical Instructions
-You must not work for next 5 days.,Anda tidak perlu bekerja untuk 5 hari akan datang.,Malay,Medical Instructions
-You must come back if you have problems with breathing.,Anda mesti kembali jika anda mempunyai masalah dengan pernafasan.,Malay,Medical Instructions
-You must come back if you do not recover completely after 5 days,Anda mesti kembali jika anda tidak sembuh sepenuhnya selepas 5 hari,Malay,Medical Instructions
-Read the handout carefully,Baca nota berhati-hati,Malay,Medical Instructions
+Kidney problems,Masalah buah pinggang / ginjal,Malay,Medical Conditions
+Loss of taste,Hilang deria rasa,Malay,Symptoms
+Lost of Smell,Hilang deria bau,Malay,Symptoms
+Do you have a drug allergy?,Ada alahan ubat?,Malay,Medical Conditions
+"Do you smoke? If yes, how many cigarettes a day?","Ada hisap rokok tak? Kalau ya, berapa batang sehari?",Malay,Medical Conditions
+"Do you drink? If yes, how much (number of bottles a week, type of alcohol)?","Ada ambil minuman keras? Kalau ya, berapa banyak? (jumlah botol seminggu, jenis minuman alkohol apa)",Malay,Medical Conditions
+"If you have any other problems, you can tell me in English.","Kalau ada masalah lain, anda boleh beritahu kami dalam Bahasa Inggeris.",Malay,Medical Conditions
+I’m going to examine you.,Saya akan periksa anda sekarang.,Malay,Medical Instructions
+Tell me if you feel more pain.,"Kalau sakit, bilang saya.",Malay,Medical Instructions
+Please remove your shirt.,Tolong buka baju.,Malay,Medical Instructions
+Keep taking deep breaths through your mouth.,Tarik nafas dan hembus berulang kali.,Malay,Medical Instructions
+"Say ""99"" when I listen with my stethoscope.",Cakap “99” bila saya dengar dengan stetoskop.,Malay,Medical Instructions
+I'm going to put this cotton bud into your nostril. You will feel strange but it is not painful,Saya akan masukkan putik kapas ini ke dalam hidung anda.. Rasa kurang selesa sikit tapi tak sakit.,Malay,Medical Instructions
+This is to test for coronavirus,Ujian ini untuk mengesan koronavirus.,Malay,Medical Instructions
+Tilt your head back,Tengok atas.,Malay,Medical Instructions
+"If coronavirus positive, we call your phone by tomorrow.","Jika keputusan ujian coronavirus anda positif, kami akan menelefon anda pada esok hari.",Malay,Medical Instructions
+"If coronavirus negative, we send you SMS (text) after 3 days","Jika keputusannya negatif, kami akan menghantar SMS kepada anda selepas 3 hari.",Malay,Medical Instructions
+"Later, you will do an X-ray","Nanti, anda akan menjalani pemeriksaan X-ray.",Malay,Medical Instructions
+There is no sign of infection on your X-ray,X-ray anda tiada tanda jangkitan.,Malay,Medical Instructions
+You can go back soon.,Sekejap lagi boleh balik.,Malay,Medical Instructions
+"Wait here, do not leave this area",Tunggu sini. Jangan pergi kemana-mana.,Malay,Medical Instructions
+You have to stay in the hospital for a few days,Anda perlu dimasukkan ke hospital selama beberapa hari.,Malay,Medical Instructions
+We need to transfer you to another location.,Kami perlu memindahkan anda ke tempat lain.,Malay,Medical Instructions
+I'll give you medicine to make you feel better,Saya akan beri anda ubat supaya anda rasa lebih lega.,Malay,Medical Instructions
+You must not work for next 5 days.,Anda tidak boleh kerja selama 5 hari.,Malay,Medical Instructions
+You must come back if you have problems with breathing.,"Kalau ada sesak nafas, mesti datang balik ke hospital.",Malay,Medical Instructions
+You must come back if you do not recover completely after 5 days,"Kalau tidak sembuh sepenuhnya selepas 5 hari, anda mesti kembali ke hospital.",Malay,Medical Instructions
+Read the handout carefully,Baca buku panduan ini dengan teliti,Malay,Medical Instructions
 Thank you,Terima kasih,Malay,Greetings
 Good morning / afternoon / evening,Selamat pagi / tengah hari / petang,Malay,Greetings
 I am the nurse,Saya jururawat,Malay,Greetings
 I am the doctor,Saya doktor,Malay,Greetings
-You are in the intensive care unit.,Anda berada di dalam unit rawatan rapi.,Malay,Medical Instructions
-Today is Monday,Hari ini adalah Isnin,Malay,Greetings
-Today is Tuesday,Hari ini hari selasa,Malay,Greetings
-Today is Wednesday,Hari ini hari rabu,Malay,Greetings
-Today is Thursday,Hari ini adalah hari Khamis,Malay,Greetings
-Today is Friday,Hari ini Jumaat,Malay,Greetings
-Today is Saturday,Hari ini hari Sabtu,Malay,Greetings
-Today is Sunday,Hari ini hari Ahad,Malay,Greetings
-You are getting better,Anda mendapat lebih baik,Malay,Greetings
-We will remove the breathing tube when you are better,Kami akan mengeluarkan tiub pernafasan apabila anda lebih baik,Malay,Medical Instructions
-You can talk after we remove the breathing tube,Anda boleh bercakap selepas kami mengeluarkan tiub pernafasan,Malay,Medical Instructions
-Take a deep breath,Ambil nafas dalam-dalam,Malay,Medical Instructions
-Give me a big cough,Berikan saya batuk besar,Malay,Medical Instructions
-Don’t struggle,Tidak berjuang,Malay,Medical Instructions
-Don’t move,Tidak bergerak,Malay,Medical Instructions
-Lift up your arm,Mengangkat lengan anda,Malay,Medical Instructions
-Lift up your leg,Mengangkat kaki anda,Malay,Medical Instructions
-Squeeze my hand,Memerah tangan saya,Malay,Medical Instructions
-Show me two fingers,Menunjukkan kepada saya dua jari,Malay,Medical Instructions
-Open your mouth,Buka mulut awak,Malay,Medical Instructions
-Stick out your tongue,Jelirkan lidah anda,Malay,Medical Instructions
-Open your eyes,Buka mata awak,Malay,Medical Instructions
-I’m going to shine a light into your eyes. It will be bright.,Saya akan bersinar cahaya ke dalam mata anda. Ia akan menjadi terang.,Malay,Medical Instructions
-Your lungs are weak. We are going to insert a breathing tube to help you breathe,paru-paru anda lemah. Kami akan memasukkan tiub pernafasan untuk membantu anda bernafas,Malay,Medical Instructions
+You are in the intensive care unit.,Anda berada di Unit Jagaan Rapi (ICU),Malay,Medical Instructions
+Today is Monday,Hari ini hari Isnin.,Malay,Greetings
+Today is Tuesday,Hari ini hari Selasa.,Malay,Greetings
+Today is Wednesday,Hari ini hari Rabu.,Malay,Greetings
+Today is Thursday,Hari ini hari Khamis.,Malay,Greetings
+Today is Friday,Hari ini hari Jumaat.,Malay,Greetings
+Today is Saturday,Hari ini hari Sabtu.,Malay,Greetings
+Today is Sunday,Hari ini hari Ahad.,Malay,Greetings
+You are getting better,Anda semakin pulih,Malay,Greetings
+We will remove the breathing tube when you are better,Kami akan mengeluarkan tiub pernafasan apabila keadaan anda lebih baik,Malay,Medical Instructions
+You can talk after we remove the breathing tube,Anda boleh bercakap selepas kami keluarkan tiub pernafasan,Malay,Medical Instructions
+Take a deep breath,Tarik nafas sedalamnya,Malay,Medical Instructions
+Give me a big cough,Tolong batuk sekuatnya,Malay,Medical Instructions
+Don’t struggle,Jangan lawan,Malay,Medical Instructions
+Don’t move,Jangan bergerak,Malay,Medical Instructions
+Lift up your arm,Naikkan tangan anda,Malay,Medical Instructions
+Lift up your leg,Naikkan kaki anda,Malay,Medical Instructions
+Squeeze my hand,Pegang dan genggam tangan saya,Malay,Medical Instructions
+Show me two fingers,Tunjukkan saya dua jari,Malay,Medical Instructions
+Open your mouth,Buka mulut anda,Malay,Medical Instructions
+Stick out your tongue,Keluarkan lidah anda,Malay,Medical Instructions
+Open your eyes,Buka mata anda,Malay,Medical Instructions
+I’m going to shine a light into your eyes. It will be bright.,Saya akan sinarkan cahaya ini ke mata anda. Ia akan menyilaukan.,Malay,Medical Instructions
+Your lungs are weak. We are going to insert a breathing tube to help you breathe,Paru-paru anda lemah. Kami akan memasukkan tiub pernafasan untuk membantu anda bernafas,Malay,Medical Instructions
 You are going to sleep now,Anda akan tidur sekarang,Malay,Medical Instructions
-We are turning you onto your belly to help your lungs expand,Kita menjadikan anda ke perut anda untuk membantu paru-paru anda mengembangkan,Malay,Medical Instructions
-We are inserting a tube to help you pass urine,Kami memasukkan tiub untuk membantu anda membuang air kecil,Malay,Medical Instructions
-We are inserting a tube through your nose,Kami memasukkan tiub melalui hidung anda,Malay,Medical Instructions
-We are going to give you an injection in your neck to give you medications,Kami akan memberi anda suntikan di leher anda untuk memberikan anda ubat-ubatan,Malay,Medical Instructions
-We are going to give you an injection in your arm to measure your blood pressure,Kami akan memberi anda suntikan di lengan anda untuk mengukur tekanan darah anda,Malay,Medical Instructions
-We will give you sleeping medications.,Kami akan memberi anda ubat tidur.,Malay,Medical Instructions
-We will give you painkillers.,Kami akan memberi anda ubat penahan sakit.,Malay,Medical Instructions
-We are giving you medication to keep your blood pressure up.,Kami memberikan anda ubat untuk mengekalkan tekanan darah anda.,Malay,Medical Instructions
-We are going to remove the breathing tube.,Kita akan keluarkan tiub pernafasan.,Malay,Medical Instructions
-We are going to suck out your phlegm,Kita akan menyedut keluar kahak anda,Malay,Medical Instructions
-We are going to clean you with a sponge,Kita akan menyucikan kamu dengan span,Malay,Medical Instructions
-Turn left,belok kiri,Malay,Medical Instructions
-Turn right,Belok kanan,Malay,Medical Instructions
-We will change your diapers,Kami akan menukar lampin anda,Malay,Medical Instructions
-Lift up your leg,Mengangkat kaki anda,Malay,Medical Instructions
-We are going to sit you up,Kami akan duduk anda sehingga,Malay,Medical Instructions
-We are going to shift you up the bed,Kita akan beralih anda ke atas katil,Malay,Medical Instructions
-We are going to clean your mouth,Kita akan membersihkan mulut anda,Malay,Medical Instructions
-Do not swallow the gargle,Jangan telan berkumur yang,Malay,Medical Instructions
+We are turning you onto your belly to help your lungs expand,Kami akan pusingkan anda agar anda baring meniarap untuk membantu paru-paru anda mengembang dengan lebih baik,Malay,Medical Instructions
+We are inserting a tube to help you pass urine,Kami akan memasukkan tiub untuk membantu anda buang air kecil,Malay,Medical Instructions
+We are inserting a tube through your nose,Kami akan memasukkan tiub melalui hidung anda,Malay,Medical Instructions
+We are going to give you an injection in your neck to give you medications,Kami akan berikan suntikan di leher untuk memberi ubat,Malay,Medical Instructions
+We are going to give you an injection in your arm to measure your blood pressure,Kami akan berikan suntikan di lengan anda untuk mengukur tekanan darah anda,Malay,Medical Instructions
+We will give you sleeping medications.,Kami akan berikan ubat tidur,Malay,Medical Instructions
+We will give you painkillers.,Kami akan berikan ubat penahan sakit,Malay,Medical Instructions
+We are giving you medication to keep your blood pressure up.,Kami akan berikan ubat untuk menaikkan tekanan darah anda,Malay,Medical Instructions
+We are going to remove the breathing tube.,Kami akan mengeluarkan tiub pernafasan.,Malay,Medical Instructions
+We are going to suck out your phlegm,Kami akan sedut keluar kahak anda,Malay,Medical Instructions
+We are going to clean you with a sponge,Kami akan membersihkan anda dengan span,Malay,Medical Instructions
+Turn left,Pusing kiri,Malay,Medical Instructions
+Turn right,Pusing kanan,Malay,Medical Instructions
+We will change your diapers,Kami akan tukarkan lampin anda,Malay,Medical Instructions
+Lift up your leg,Angkat kaki anda,Malay,Medical Instructions
+We are going to sit you up,Kami akan dudukkan anda,Malay,Medical Instructions
+We are going to shift you up the bed,Kami akan bantu mengangkat anda ke katil.,Malay,Medical Instructions
+We are going to clean your mouth,Kami akan bersihkan mulut anda,Malay,Medical Instructions
+Do not swallow the gargle,Jangan telan air kumur,Malay,Medical Instructions
+I am a doctor. I do not speak Bulgarian. I will communicate with you using this website. Answer me in English as much as possible. Thank you.,"Аз съм доктор. Аз не говоря български. Ще се свържем с вас с помощта на този сайт. Отговори ми на английски, колкото е възможно. Благодаря ти.",Bulgarian,Greetings
+What's your name?,Как се казваш?,Bulgarian,Greetings
+Please give me your Identitification Card / Work Permit,"Моля, дайте ми вашето Identitification карта / Разрешително за работа",Bulgarian,Greetings
+"In the last 14 days, did you meet anyone who has coronavirus?","През последните 14 дни, се запознахте всеки, който има коронавирус?",Bulgarian,Contact with Others
+Who? What is your relationship with them?,СЗО? Каква е връзката ви с тях?,Bulgarian,Contact with Others
+How many days ago did you meet them? (There is a number chart in the sidebar if they cannot answer),"Колко дни преди се запозна с тях? (Има няколко диаграма в страничната лента, ако те не могат да отговорят)",Bulgarian,Contact with Others
+How long were you with him/her?,Колко време сте били с него / нея?,Bulgarian,Contact with Others
+"In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.","През последните 14 дни, пътувахте от Сингапур? Ако отговорът е да, кажи ни страни на английски език.",Bulgarian,Contact with Others
+Do you have a fever?,Имаш ли треска?,Bulgarian,Symptoms
+"How many days?
+(You may use this for multiple symptoms)","Колко дни?
+(Можете да използвате този за множество симптоми)",Bulgarian,Symptoms
+"Did you measure it with a thermometer? If you did, what was the highest reading?","Знаете ли го измерваме с термометър? Ако е така, това, което е най-високата стойност?",Bulgarian,Symptoms
+Runny nose?,Хрема?,Bulgarian,Symptoms
+Cough?,Кашлица?,Bulgarian,Symptoms
+Sore throat?,Възпалено гърло?,Bulgarian,Symptoms
+Difficulty breathing?,Затруднено дишане?,Bulgarian,Symptoms
+Do you have diarrhoea? How many times a day?,Имате ли диария? Колко пъти на ден?,Bulgarian,Symptoms
+Rash?,Обрив?,Bulgarian,Symptoms
+"Any pain? Specifically, any chest pain?","Всяка болка? По-специално, всяка болка в гърдите?",Bulgarian,Symptoms
+Point to the place.,Точка на мястото.,Bulgarian,Symptoms
+Do you have any past medical history?,Имате ли някаква предшестваща анамнеза?,Bulgarian,Medical Conditions
+Please point to which ones.,"Моля, сочат към кои от тях.",Bulgarian,Medical Conditions
+Asthma,астма,Bulgarian,Medical Conditions
+Pneumonia,Пневмония,Bulgarian,Medical Conditions
+Hypertension,Хипертония,Bulgarian,Medical Conditions
+Hyperlipidemia,Хиперлипедимията,Bulgarian,Medical Conditions
+Diabetes,Диабет,Bulgarian,Medical Conditions
+Heart problems,проблеми със сърцето,Bulgarian,Medical Conditions
+Kidney problems,проблеми с бъбреците,Bulgarian,Medical Conditions
+Loss of taste,Загуба на вкус,Bulgarian,Symptoms
+Lost of Smell,Изгубени обонянието,Bulgarian,Symptoms
+Do you have a drug allergy?,Имате ли алергия наркотици?,Bulgarian,Medical Conditions
+"Do you smoke? If yes, how many cigarettes a day?","Пушите ли? Ако да, колко цигари на ден?",Bulgarian,Medical Conditions
+"Do you drink? If yes, how much (number of bottles a week, type of alcohol)?","Пиеш ли? Ако да, колко (брой бутилки седмично, вид алкохол)?",Bulgarian,Medical Conditions
+"If you have any other problems, you can tell me in English.","Ако имате някакви други проблеми, можете да ми кажете на английски език.",Bulgarian,Medical Conditions
+I’m going to examine you.,Отивам да ви прегледа.,Bulgarian,Medical Instructions
+Tell me if you feel more pain.,"Кажете ми, ако се чувствате по-болка.",Bulgarian,Medical Instructions
+Please remove your shirt.,"Моля, премахнете ризата си.",Bulgarian,Medical Instructions
+Keep taking deep breaths through your mouth.,Продължавайте да си дълбоко въздух през устата.,Bulgarian,Medical Instructions
+"Say ""99"" when I listen with my stethoscope.","Кажете ""99"", когато слушам с моя стетоскоп.",Bulgarian,Medical Instructions
+I'm going to put this cotton bud into your nostril. You will feel strange but it is not painful,"Отивам да поставите този памучен тампон в ноздрата. Ще се почувствате странно, но това не е болезнена",Bulgarian,Medical Instructions
+This is to test for coronavirus,Това е тест за коронавирус,Bulgarian,Medical Instructions
+Tilt your head back,Наклонете главата назад,Bulgarian,Medical Instructions
+"If coronavirus positive, we call your phone by tomorrow.","Ако коронавирус положително, което наричаме телефона си, като утре.",Bulgarian,Medical Instructions
+"If coronavirus negative, we send you SMS (text) after 3 days","Ако коронавирус отрицателен, Ви изпращаме SMS (текст) след 3 дни",Bulgarian,Medical Instructions
+"Later, you will do an X-ray","По-късно, ще направи рентгенова снимка",Bulgarian,Medical Instructions
+There is no sign of infection on your X-ray,Няма признаци на инфекция на вашия рентгенов,Bulgarian,Medical Instructions
+You can go back soon.,Можете да се върнете скоро.,Bulgarian,Medical Instructions
+"Wait here, do not leave this area","Изчакайте тук, не оставяйте тази област",Bulgarian,Medical Instructions
+You have to stay in the hospital for a few days,Вие трябва да остане в болницата за няколко дни,Bulgarian,Medical Instructions
+We need to transfer you to another location.,Ние трябва да прехвърлите на друго място.,Bulgarian,Medical Instructions
+I'll give you medicine to make you feel better,"Ще ви дам медицина, за да ви накара да се чувствате по-добре",Bulgarian,Medical Instructions
+You must not work for next 5 days.,Вие не трябва да работи за следващите 5 дни.,Bulgarian,Medical Instructions
+You must come back if you have problems with breathing.,"Трябва да се върне, ако имате проблеми с дишането.",Bulgarian,Medical Instructions
+You must come back if you do not recover completely after 5 days,"Трябва да се върне, ако не се възстанови напълно след 5 дни",Bulgarian,Medical Instructions
+Read the handout carefully,Прочетете внимателно помагалото,Bulgarian,Medical Instructions
+Thank you,Благодаря ти,Bulgarian,Greetings
+Good morning / afternoon / evening,Добро утро / следобед / вечер,Bulgarian,Greetings
+I am the nurse,Аз съм сестрата,Bulgarian,Greetings
+I am the doctor,Аз съм на лекар,Bulgarian,Greetings
+You are in the intensive care unit.,Вие сте в интензивното отделение.,Bulgarian,Medical Instructions
+Today is Monday,Днес е понеделник,Bulgarian,Greetings
+Today is Tuesday,Днес е вторник,Bulgarian,Greetings
+Today is Wednesday,Днес е сряда,Bulgarian,Greetings
+Today is Thursday,Днес е четвъртък,Bulgarian,Greetings
+Today is Friday,Днес е петък,Bulgarian,Greetings
+Today is Saturday,Днес е събота,Bulgarian,Greetings
+Today is Sunday,Днес е неделя,Bulgarian,Greetings
+You are getting better,Вие все по-добри,Bulgarian,Greetings
+We will remove the breathing tube when you are better,"Ние ще премахне тръбата на дишане, когато сте по-добре",Bulgarian,Medical Instructions
+You can talk after we remove the breathing tube,"Можете да говорите, след като се отстрани тръбата за дишане",Bulgarian,Medical Instructions
+Take a deep breath,Поеми си дълбоко въздух,Bulgarian,Medical Instructions
+Give me a big cough,Дай ми една голяма кашлица,Bulgarian,Medical Instructions
+Don’t struggle,Не се борят,Bulgarian,Medical Instructions
+Don’t move,Не мърдай,Bulgarian,Medical Instructions
+Lift up your arm,Повдигнете ръката си,Bulgarian,Medical Instructions
+Lift up your leg,Повдигнете краката си,Bulgarian,Medical Instructions
+Squeeze my hand,Стиснете ръката ми,Bulgarian,Medical Instructions
+Show me two fingers,Покажи ми два пръста,Bulgarian,Medical Instructions
+Open your mouth,Отвори устата си,Bulgarian,Medical Instructions
+Stick out your tongue,Придържайте езика си,Bulgarian,Medical Instructions
+Open your eyes,Отвори си очите,Bulgarian,Medical Instructions
+I’m going to shine a light into your eyes. It will be bright.,Отивам да хвърлим светлина в очите ви. Тя ще бъде светло.,Bulgarian,Medical Instructions
+Your lungs are weak. We are going to insert a breathing tube to help you breathe,Дробовете ви са слаби. Ние ще вмъкнете дишане тръба да ви помогне да диша,Bulgarian,Medical Instructions
+You are going to sleep now,Вие ще спя сега,Bulgarian,Medical Instructions
+We are turning you onto your belly to help your lungs expand,"Ние Ви завъртане върху корема си, за да помогне на белите дробове се разширяват",Bulgarian,Medical Instructions
+We are inserting a tube to help you pass urine,Ние сме вмъкване на тръба да ви помогне да си урина,Bulgarian,Medical Instructions
+We are inserting a tube through your nose,Ние сме вмъкване на тръба през носа,Bulgarian,Medical Instructions
+We are going to give you an injection in your neck to give you medications,"Ние ще ви даде една инжекция във врата си, за да ви даде лекарства",Bulgarian,Medical Instructions
+We are going to give you an injection in your arm to measure your blood pressure,"Ние ще ви даде една инжекция в ръката си, за да се измери кръвното си налягане",Bulgarian,Medical Instructions
+We will give you sleeping medications.,Ние ще ви дадем спят лекарства.,Bulgarian,Medical Instructions
+We will give you painkillers.,Ние ще ви даде болкоуспокояващи.,Bulgarian,Medical Instructions
+We are giving you medication to keep your blood pressure up.,"Ние ви даваме лекарства, за да се запази на кръвното си налягане нагоре.",Bulgarian,Medical Instructions
+We are going to remove the breathing tube.,Ние ще премахне тръбата на дишането.,Bulgarian,Medical Instructions
+We are going to suck out your phlegm,Ние ще изсмуче си храчки,Bulgarian,Medical Instructions
+We are going to clean you with a sponge,Ние ще ви почисти с гъба,Bulgarian,Medical Instructions
+Turn left,Обърни се наляво,Bulgarian,Medical Instructions
+Turn right,Обърни се на дясно,Bulgarian,Medical Instructions
+We will change your diapers,Ние ще се промени вашите памперси,Bulgarian,Medical Instructions
+Lift up your leg,Повдигнете краката си,Bulgarian,Medical Instructions
+We are going to sit you up,Ние ще ви седне,Bulgarian,Medical Instructions
+We are going to shift you up the bed,Ние ще ви измести нагоре леглото,Bulgarian,Medical Instructions
+We are going to clean your mouth,Ние ще почисти устата си,Bulgarian,Medical Instructions
+Do not swallow the gargle,Не поглъщайте гаргара,Bulgarian,Medical Instructions
+I am a doctor. I do not speak Vietnamese. I will communicate with you using this website. Answer me in English as much as possible. Thank you.,मैं एक डॉक्टर हूँ। मैं वियतनामी बात नहीं करते। मैं आप इस वेबसाइट का उपयोग कर के साथ संवाद करेंगे। संभव के रूप में ज्यादा के रूप में अंग्रेजी में मुझे उत्तर दो। धन्यवाद।,Hindi,Greetings
+What's your name?,तुम्हारा नाम क्या है?,Hindi,Greetings
+Please give me your Identitification Card / Work Permit,मुझे दे कृपया अपने Identitification कार्ड / कार्य परमिट,Hindi,Greetings
+"In the last 14 days, did you meet anyone who has coronavirus?","पिछले 14 दिनों में, आप किसी को जो कोरोना है मिले थे?",Hindi,Contact with Others
+Who? What is your relationship with them?,Who? उन लोगों के साथ क्या संबंध है?,Hindi,Contact with Others
+How many days ago did you meet them? (There is a number chart in the sidebar if they cannot answer),आप उन्हें कितने दिन पहले मिले थे? (वहाँ साइडबार अगर वे उत्तर नहीं दे सकता में एक नंबर चार्ट है),Hindi,Contact with Others
+How long were you with him/her?,कब तक उसे / उसके साथ थी?,Hindi,Contact with Others
+"In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.","पिछले 14 दिनों में, आप सिंगापुर में यात्रा करते रहते किया था? यदि हां, तो हमें अंग्रेजी में देशों बताओ।",Hindi,Contact with Others
+Do you have a fever?,क्या आप को बुखार है?,Hindi,Symptoms
+"How many days?
+(You may use this for multiple symptoms)","कितने दिन?
+(आप एक से अधिक लक्षण के लिए इसका उपयोग कर सकते)",Hindi,Symptoms
+"Did you measure it with a thermometer? If you did, what was the highest reading?","आप इसे एक थर्मामीटर के साथ मापने की थी? तुमने किया था, तो उच्चतम पढ़ने क्या था?",Hindi,Symptoms
+Runny nose?,बहती नाक?,Hindi,Symptoms
+Cough?,खांसी?,Hindi,Symptoms
+Sore throat?,गले में खरास?,Hindi,Symptoms
+Difficulty breathing?,सांस लेने मे तकलीफ?,Hindi,Symptoms
+Do you have diarrhoea? How many times a day?,आप दस्त है? दिन मे कितने बार?,Hindi,Symptoms
+Rash?,जल्दबाज?,Hindi,Symptoms
+"Any pain? Specifically, any chest pain?","कोई दर्द? विशेष रूप से, किसी भी सीने में दर्द?",Hindi,Symptoms
+Point to the place.,जगह पर इंगित करें।,Hindi,Symptoms
+Do you have any past medical history?,आप किसी भी पिछले चिकित्सा के इतिहास है?,Hindi,Medical Conditions
+Please point to which ones.,कृपया कौन सा इशारा करते हैं।,Hindi,Medical Conditions
+Asthma,दमा,Hindi,Medical Conditions
+Pneumonia,न्यूमोनिया,Hindi,Medical Conditions
+Hypertension,उच्च रक्तचाप,Hindi,Medical Conditions
+Hyperlipidemia,हाइपरलिपीडेमिया,Hindi,Medical Conditions
+Diabetes,मधुमेह,Hindi,Medical Conditions
+Heart problems,हृदय की समस्याएं,Hindi,Medical Conditions
+Kidney problems,गुर्दे से संबंधित समस्याएं,Hindi,Medical Conditions
+Loss of taste,स्वाद का नुकसान,Hindi,Symptoms
+Lost of Smell,गंध की खोया,Hindi,Symptoms
+Do you have a drug allergy?,आप एक दवा एलर्जी है?,Hindi,Medical Conditions
+"Do you smoke? If yes, how many cigarettes a day?","क्या आप धूम्रपान करते हैं? अगर हां, तो कितने सिगरेट एक दिन?",Hindi,Medical Conditions
+"Do you drink? If yes, how much (number of bottles a week, type of alcohol)?","क्या आप पीते हैं? यदि हां, तो कितना (बोतलों की संख्या एक सप्ताह, शराब के प्रकार के)?",Hindi,Medical Conditions
+"If you have any other problems, you can tell me in English.","आप किसी भी अन्य समस्या है, तो आप मुझे अंग्रेजी में बता सकते हैं।",Hindi,Medical Conditions
+I’m going to examine you.,मैं तुम्हें जांच करने के लिए जा रहा हूँ।,Hindi,Medical Instructions
+Tell me if you feel more pain.,मुझे बताओ कि यदि आप और अधिक दर्द महसूस होता है।,Hindi,Medical Instructions
+Please remove your shirt.,अपनी शर्ट निकाल दें।,Hindi,Medical Instructions
+Keep taking deep breaths through your mouth.,अपने मुंह के माध्यम से गहरी साँस लेते रहें।,Hindi,Medical Instructions
+"Say ""99"" when I listen with my stethoscope.","""99"" कहते हैं कि जब मैं अपने स्टेथोस्कोप से सुन।",Hindi,Medical Instructions
+I'm going to put this cotton bud into your nostril. You will feel strange but it is not painful,"मैं अपने नथुने में इस कपास कली डाल करने के लिए जा रहा हूँ। आप अजीब महसूस होगा, लेकिन यह दर्दनाक नहीं है",Hindi,Medical Instructions
+This is to test for coronavirus,यह कोरोना के लिए परीक्षण करने के लिए है,Hindi,Medical Instructions
+Tilt your head back,अपने सिर को पीछे झुकाएं,Hindi,Medical Instructions
+"If coronavirus positive, we call your phone by tomorrow.","कोरोना सकारात्मक है, तो हम कल तक अपने फोन को कहते हैं।",Hindi,Medical Instructions
+"If coronavirus negative, we send you SMS (text) after 3 days","कोरोना नकारात्मक, तो हम आपको एसएमएस (पाठ) 3 दिन के बाद भेज",Hindi,Medical Instructions
+"Later, you will do an X-ray","बाद में, आप एक एक्स-रे करना होगा",Hindi,Medical Instructions
+There is no sign of infection on your X-ray,आपके एक्स-रे पर संक्रमण का कोई संकेत नहीं है,Hindi,Medical Instructions
+You can go back soon.,आप जल्द ही वापस जा सकते हैं।,Hindi,Medical Instructions
+"Wait here, do not leave this area","यहाँ रुको, इस क्षेत्र मत छोड़ो",Hindi,Medical Instructions
+You have to stay in the hospital for a few days,आप कुछ दिनों के लिए अस्पताल में रहना है,Hindi,Medical Instructions
+We need to transfer you to another location.,हम किसी अन्य स्थान पर आप ट्रांसफर करने होंगे।,Hindi,Medical Instructions
+I'll give you medicine to make you feel better,मैं तुम्हें दवा आप बेहतर महसूस करने के लिए दे देंगे,Hindi,Medical Instructions
+You must not work for next 5 days.,आप अगले 5 दिनों के लिए काम नहीं करना चाहिए।,Hindi,Medical Instructions
+You must come back if you have problems with breathing.,यदि आप श्वास के साथ समस्या है वापस आना चाहिए।,Hindi,Medical Instructions
+You must come back if you do not recover completely after 5 days,आप वापस आ जाओ अगर आप 5 दिनों के बाद पूरी तरह से ठीक नहीं करना चाहिए,Hindi,Medical Instructions
+Read the handout carefully,हैंडआउट को ध्यान से पढ़ें,Hindi,Medical Instructions
+Thank you,धन्यवाद,Hindi,Greetings
+Good morning / afternoon / evening,सुप्रभात / दोपहर / शाम,Hindi,Greetings
+I am the nurse,मैं नर्स हूँ,Hindi,Greetings
+I am the doctor,मैं एक डॉक्टर हूं,Hindi,Greetings
+You are in the intensive care unit.,आप गहन चिकित्सा कक्ष में हैं।,Hindi,Medical Instructions
+Today is Monday,आज सोमवार है,Hindi,Greetings
+Today is Tuesday,आज मंगलवार है,Hindi,Greetings
+Today is Wednesday,आज बुधवार है,Hindi,Greetings
+Today is Thursday,आज गुरूवार है,Hindi,Greetings
+Today is Friday,आज शुक्रवार है,Hindi,Greetings
+Today is Saturday,आज शनिवार है,Hindi,Greetings
+Today is Sunday,आज रविवार है,Hindi,Greetings
+You are getting better,तुम ठीक हो रहे हो,Hindi,Greetings
+We will remove the breathing tube when you are better,जब आप बेहतर कर रहे हैं हम श्वास नली निकाल देंगे,Hindi,Medical Instructions
+You can talk after we remove the breathing tube,आप हम श्वास नली को दूर करने के बाद बात कर सकते हैं,Hindi,Medical Instructions
+Take a deep breath,एक गहरी सास लो,Hindi,Medical Instructions
+Give me a big cough,मुझे एक बड़ा खांसी दें,Hindi,Medical Instructions
+Don’t struggle,संघर्ष मत करो,Hindi,Medical Instructions
+Don’t move,हिलने नहीं दें,Hindi,Medical Instructions
+Lift up your arm,अपने हाथ उठाकर,Hindi,Medical Instructions
+Lift up your leg,अपने पैर उठाकर,Hindi,Medical Instructions
+Squeeze my hand,मेरे हाथ निचोड़,Hindi,Medical Instructions
+Show me two fingers,मुझे दो उंगलियों दिखाएँ,Hindi,Medical Instructions
+Open your mouth,अपना मुहँ खोलो,Hindi,Medical Instructions
+Stick out your tongue,अपनी जीभ बाहर निकालना,Hindi,Medical Instructions
+Open your eyes,अपनी आँखें खोलो,Hindi,Medical Instructions
+I’m going to shine a light into your eyes. It will be bright.,मैं अपने आँखों में प्रकाश डालने के लिए जा रहा हूँ। यह उज्ज्वल हो जाएगा।,Hindi,Medical Instructions
+Your lungs are weak. We are going to insert a breathing tube to help you breathe,आपके फेफड़े कमजोर हैं। हम आपको साँस लेने में मदद करने के लिए एक श्वास नली डालने के लिए जा रहे हैं,Hindi,Medical Instructions
+You are going to sleep now,आप सोने के लिए अब जा रहे हैं,Hindi,Medical Instructions
+We are turning you onto your belly to help your lungs expand,हम मदद करने के लिए आपके फेफड़ों का विस्तार अपने पेट पर आप बदल रहे हैं,Hindi,Medical Instructions
+We are inserting a tube to help you pass urine,हम मदद करने के लिए एक ट्यूब डालने कर रहे हैं आप मूत्र त्याग,Hindi,Medical Instructions
+We are inserting a tube through your nose,हम अपनी नाक के माध्यम से एक ट्यूब डालने कर रहे हैं,Hindi,Medical Instructions
+We are going to give you an injection in your neck to give you medications,हम अपनी गर्दन आप दवाओं देने के लिए आप एक इंजेक्शन देने जा रहे हैं,Hindi,Medical Instructions
+We are going to give you an injection in your arm to measure your blood pressure,हम अपने रक्तचाप को मापने के लिए अपने हाथ में आप एक इंजेक्शन देने जा रहे हैं,Hindi,Medical Instructions
+We will give you sleeping medications.,हम आप सो दवाएं दे देंगे।,Hindi,Medical Instructions
+We will give you painkillers.,हम आपको दर्द निवारक दे देंगे।,Hindi,Medical Instructions
+We are giving you medication to keep your blood pressure up.,हम आपको अपने रक्तचाप को बनाए रखने के लिए दवा दे रहे हैं।,Hindi,Medical Instructions
+We are going to remove the breathing tube.,हम श्वास नली को दूर करने के लिए जा रहे हैं।,Hindi,Medical Instructions
+We are going to suck out your phlegm,हम आपके कफ बाहर चूसना करने के लिए जा रहे हैं,Hindi,Medical Instructions
+We are going to clean you with a sponge,हम एक स्पंज के साथ आप साफ करने के लिए जा रहे हैं,Hindi,Medical Instructions
+Turn left,बाएँ मुड़ें,Hindi,Medical Instructions
+Turn right,दायें मुड़ो,Hindi,Medical Instructions
+We will change your diapers,हम अपने डायपर बदल जाएगा,Hindi,Medical Instructions
+Lift up your leg,अपने पैर उठाकर,Hindi,Medical Instructions
+We are going to sit you up,हम आपको बैठने जा रहे हैं,Hindi,Medical Instructions
+We are going to shift you up the bed,हम आपको बिस्तर तक शिफ्ट करने के लिए जा रहे हैं,Hindi,Medical Instructions
+We are going to clean your mouth,हम अपना मुँह साफ करने के लिए जा रहे हैं,Hindi,Medical Instructions
+Do not swallow the gargle,कुल्ला निगल न करें,Hindi,Medical Instructions
+I am a doctor. I do not speak Telugu. I will communicate with you using this website. Answer me in English as much as possible. Thank you.,నేను ఒక వైద్యుడిని. నేను తెలుగు మాట్లాడలేను. ఈ వెబ్‌సైట్‌ను ఉపయోగించి నేను మీతో మాట్లాడతాను. నాకు వీలైనంతవరకు ఇంగ్లీషులో సమాధానం ఇవ్వండి. ధన్యవాదాలు.,Telugu,Greetings
+What's your name?,నీ పేరు ఏమిటి?,Telugu,Greetings
+Please give me your Identitification Card / Work Permit,దయచేసి మీ FIN లేదా IC నంబర్ ఇవ్వండి,Telugu,Greetings
+"In the last 14 days, did you meet anyone who has coronavirus?","గత 14 రోజుల్లో, కరోనావైరస్ ఉన్నవారిని మీరు కలిశారా?",Telugu,Contact with Others
+Who? What is your relationship with them?,ఎవరది? వారితో మీ సంబంధం ఏమిటి?,Telugu,Contact with Others
+How many days ago did you meet them? (There is a number chart in the sidebar if they cannot answer),ఎన్ని రోజుల క్రితం మీరు వారిని కలిశారు?,Telugu,Contact with Others
+How long were you with him/her?,మీరు అతనితో / ఆమెతో ఎంతకాలం ఉన్నారు?,Telugu,Contact with Others
+"In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.","గత 14 రోజుల్లో, మీరు సింగపూర్ నుండి ప్రయాణించారా? అవును అయితే, దేశాలను ఆంగ్లంలో చెప్పండి.",Telugu,Contact with Others
+Do you have a fever?,మీకు జ్వరం ఉందా?,Telugu,Symptoms
+"How many days?
+(You may use this for multiple symptoms)",ఎన్ని రోజులు?,Telugu,Symptoms
+"Did you measure it with a thermometer? If you did, what was the highest reading?","మీరు దానిని థర్మామీటర్‌తో కొలిచారా? మీరు అలా చేస్తే, అత్యధిక పఠనం ఏమిటి?",Telugu,Symptoms
+Runny nose?,కారుతున్న ముక్కు?,Telugu,Symptoms
+Cough?,మీకు దగ్గు ఉందా?,Telugu,Symptoms
+Sore throat?,మీకు గొంతు నొప్పి ఉందా?,Telugu,Symptoms
+Difficulty breathing?,మీకు శ్వాస తీసుకోవడంలో ఇబ్బంది ఉందా?,Telugu,Symptoms
+Do you have diarrhoea? How many times a day?,మీకు విరేచనాలు ఉన్నాయా? రోజుకు ఎన్నిసార్లు?,Telugu,Symptoms
+Rash?,మీకు దద్దుర్లు ఉన్నాయా?,Telugu,Symptoms
+"Any pain? Specifically, any chest pain?","ఏదైనా నొప్పి ఉందా? ప్రత్యేకంగా, మీకు ఛాతీ నొప్పి ఉందా?",Telugu,Symptoms
+Point to the place.,ఇది ఎక్కడ బాధిస్తుందో సూచించండి,Telugu,Symptoms
+Do you have any past medical history?,మీకు గత వైద్య చరిత్ర ఏదైనా ఉందా?,Telugu,Medical Conditions
+Please point to which ones.,ఏ వాటికి సూచించండి.,Telugu,Medical Conditions
+Asthma,ఆస్తమా,Telugu,Medical Conditions
+Pneumonia,న్యుమోనియా,Telugu,Medical Conditions
+Hypertension,రక్తపోటు,Telugu,Medical Conditions
+Hyperlipidemia,కొలెస్ట్రాల్,Telugu,Medical Conditions
+Diabetes,"సుగర్/
+డయాబెటిస్",Telugu,Medical Conditions
+Heart problems,గుండె సమస్యలు,Telugu,Medical Conditions
+Kidney problems,కిడ్నీ సమస్యలు,Telugu,Medical Conditions
+Loss of taste,టేస్ట్ చెయ్య గలుగు తున్నారా ?,Telugu,Symptoms
+Loss of Smell,వాసన చెయ్యగలుగు తున్నారా ?,Telugu,Symptoms
+Do you have a drug allergy?,మీకు డ్రగ్ అలెర్జీ ఉందా?,Telugu,Medical Conditions
+"Do you smoke? If yes, how many cigarettes a day?","మీరు పొగత్రాగుతారా? అవును అయితే, రోజుకు ఎన్ని సిగరెట్లు?",Telugu,Medical Conditions
+"Do you drink? If yes, how much (number of bottles a week, type of alcohol)?","నువ్వు త్రాగుతావా? అవును, ఎంత? వారానికి ఎన్ని సీసాలు, ఏ రకమైన ఆల్కహాల్?",Telugu,Medical Conditions
+"If you have any other problems, you can tell me in English.","మీకు ఏమైనా సమస్యలు ఉంటే, మీరు నాకు ఇంగ్లీషులో చెప్పగలరు.",Telugu,Medical Conditions
+I’m going to examine you.,నేను మిమ్మల్ని పరిశీలించబోతున్నాను,Telugu,Medical Instructions
+Tell me if you feel more pain.,మీరు బాధను ఉంటే చెప్పు.,Telugu,Medical Instructions
+Please remove your shirt.,దయచేసి మీ చొక్కా తొలగించండి.,Telugu,Medical Instructions
+Keep taking deep breaths through your mouth.,దయచేసి మీ చొక్కా తీయండి,Telugu,Medical Instructions
+"Say ""99"" when I listen with my stethoscope.","నేను నా స్టెతస్కోప్‌తో విన్నప్పుడు, ఆంగ్లంలో తొమ్మిది-తొమ్మిది చెప్పండి.",Telugu,Medical Instructions
+I'm going to put this cotton bud into your nostril. You will feel strange but it is not painful,నేను ఈ కాటన్ మొగ్గను మీ ముక్కులో పెట్టబోతున్నాను. మీరు వింతగా భావిస్తారు కానీ బాధాకరమైనది కాదు.,Telugu,Medical Instructions
+This is to test for coronavirus,ఇది కరోనావైరస్ కోసం పరీక్షించడం.,Telugu,Medical Instructions
+Tilt your head back,మీ తల వెనుకకు వంచు,Telugu,Medical Instructions
+"If coronavirus positive, we call your phone by tomorrow.","మీకు కరోనావైరస్ ఉంటే, మేము రేపు మీ ఫోన్‌కు కాల్ చేస్తాము.",Telugu,Medical Instructions
+"If coronavirus negative, we send you SMS (text) after 3 days","మీకు కరోనావైరస్ లేకపోతే, మేము 3 రోజుల తర్వాత మీకు SMS పంపుతాము",Telugu,Medical Instructions
+"Later, you will do an X-ray","తరువాత, మీరు ఎక్స్-రే చేస్తారు",Telugu,Medical Instructions
+There is no sign of infection on your X-ray,మీ ఎక్స్-రేలు సంక్రమణ సంకేతాలు లేవు,Telugu,Medical Instructions
+You can go back soon.,మీరు త్వరలో తిరిగి వెళ్ళవచ్చు.,Telugu,Medical Instructions
+"Wait here, do not leave this area","ఇక్కడ ఉండండి, ఎక్కడికీ వెళ్లవద్దు",Telugu,Medical Instructions
+You have to stay in the hospital for a few days,మీరు కొన్ని రోజులు ఆసుపత్రిలో ఉండాలి,Telugu,Medical Instructions
+We need to transfer you to another location.,మేము మిమ్మల్ని వేరే ప్రదేశానికి బదిలీ చేయాలి.,Telugu,Medical Instructions
+I'll give you medicine to make you feel better,మీ మంచి కోసం నేను మీకు మందులు ఇస్తాను,Telugu,Medical Instructions
+You must not work for next 5 days.,మీరు 5 రోజులు పని చేయకూడదు,Telugu,Medical Instructions
+You must come back if you have problems with breathing.,మీకు ఊపిరి తీసుకోవడంలో సమస్యలు ఉంటే మీరు తప్పక తిరిగి రావాలి.,Telugu,Medical Instructions
+You must come back if you do not recover completely after 5 days,5 రోజుల తర్వాత మీరు పూర్తిగా కోలుకోకపోతే మీరు తిరిగి రావాలి,Telugu,Medical Instructions
+Read the handout carefully,కాగితంపై ఉన్న సూచనలను జాగ్రత్తగా చదవండి,Telugu,Medical Instructions
+Thank you,ధన్యవాదాలు.,Telugu,Greetings
+Good morning / afternoon / evening,శుభోదయం / శుభ మద్యాహ్నం / శుభ సాయంత్రం,Telugu,Greetings
+I am the nurse,నేను నర్సుని,Telugu,Greetings
+I am the doctor,నేను డాక్టర్,Telugu,Greetings
+You are in the intensive care unit.,మీరు ఇంటెన్సివ్ కేర్ యూనిట్లో ఉన్నారు,Telugu,Medical Instructions
+Today is Monday,ఈరోజు సోమవారం,Telugu,Greetings
+Today is Tuesday,ఈరోజు మంగళవారం,Telugu,Greetings
+Today is Wednesday,ఈ రోజు బుధవారం,Telugu,Greetings
+Today is Thursday,ఈ రోజు గురువారము,Telugu,Greetings
+Today is Friday,ఈ రోజు శుక్రవారం,Telugu,Greetings
+Today is Saturday,ఈ రోజు శనివారం,Telugu,Greetings
+Today is Sunday,ఈరోజు ఆదివారం,Telugu,Greetings
+You are getting better,మీ ఆరోగ్యం మెరుగుపడుతోంది,Telugu,Greetings
+We will remove the breathing tube when you are better,మీ ఆరోగ్యం బాగున్నప్పుడు మేము గొట్టాన్ని తీసేస్తాం,Telugu,Medical Instructions
+You can talk after we remove the breathing tube,మేము గొట్టాన్ని తీసిన తర్వాత మీరు మాట్లాడవచ్చు,Telugu,Medical Instructions
+Take a deep breath,గట్టిగా ఊపిరి తీసుకోండి,Telugu,Medical Instructions
+Give me a big cough,గట్టిగా దగ్గు,Telugu,Medical Instructions
+Don’t struggle,అవస్థ పడకండి,Telugu,Medical Instructions
+Don’t move,కదలకండి,Telugu,Medical Instructions
+Lift up your arm,మీ చేయి పైకి ఎత్తండి,Telugu,Medical Instructions
+Lift up your leg,మీ కాలు పైకి ఎత్తండి,Telugu,Medical Instructions
+Squeeze my hand,నా చేతిని నొక్కండి,Telugu,Medical Instructions
+Show me two fingers,నాకు రెండు వేళ్లు చూపించండి,Telugu,Medical Instructions
+Open your mouth,మీ నోరు తెరవండి,Telugu,Medical Instructions
+Stick out your tongue,మీ నాలుకను బయట పెట్టండి,Telugu,Medical Instructions
+Open your eyes,మీ కళ్ళు తెరవండి,Telugu,Medical Instructions
+I’m going to shine a light into your eyes. It will be bright.,నేను మీ కళ్ళలో ఒక కాంతిని ప్రకాశిస్తాను. ఇది ప్రకాశవంతంగా ఉంటుంది.,Telugu,Medical Instructions
+Your lungs are weak. We are going to insert a breathing tube to help you breathe,మీ ఊపిరి పిరితిత్తులు బలహీనంగా ఉన్నాయి. మీకు ఊపిరి పీల్చుకోవడానికి మేము గొట్టాన్ని పెట్టబోతున్నాం,Telugu,Medical Instructions
+You are going to sleep now,మీరు ఇప్పుడు నిద్రపోతారు,Telugu,Medical Instructions
+We are turning you onto your belly to help your lungs expand,మీ ఊపిరి పిరితిత్తులు విస్తరించడంలో సహాయపడటానికి మేము మిమ్మల్ని మీ బొడ్డుపైకి మారుస్తున్నాము,Telugu,Medical Instructions
+We are inserting a tube to help you pass urine,మీకు మూత్రం పంపడంలో సహాయపడటానికి మేము ఒక గొట్టం వేస్తున్నాము,Telugu,Medical Instructions
+We are inserting a tube through your nose,మేము మీ ముక్కు ద్వారా గొట్టం వేస్తున్నాము,Telugu,Medical Instructions
+We are going to give you an injection in your neck to give you medications,మీకు మందులు ఇవ్వడానికి మేము మీ మెడలో ఇంజెక్షన్ ఇవ్వబోతున్నాం,Telugu,Medical Instructions
+We are going to give you an injection in your arm to measure your blood pressure,మీ బిపిని కొలవడానికి మేము మీ చేతిలో ఇంజెక్షన్ ఇవ్వబోతున్నాము,Telugu,Medical Instructions
+We will give you sleeping medications.,మేము మీకు నిద్ర మందు ఇస్తాము,Telugu,Medical Instructions
+We will give you painkillers.,మేము మీకు పెయిన్ కిల్లర్స్ ఇస్తాము.,Telugu,Medical Instructions
+We are giving you medication to keep your blood pressure up.,మీ బిపిని అధికంగా ఉంచడానికి మేము మీకు మందులు ఇస్తున్నాము.,Telugu,Medical Instructions
+We are going to remove the breathing tube.,మేము గొట్టాన్ని తొలగించబోతున్నాము.,Telugu,Medical Instructions
+We are going to suck out your phlegm,మేము మీ కఫాన్ని పీల్చుకోబోతున్నాం,Telugu,Medical Instructions
+We are going to clean you with a sponge,మేము మిమ్మల్ని స్పాంజితో శుభ్రం చేయబోతున్నాం,Telugu,Medical Instructions
+Turn left,ఎడమవైపు తిరగండి,Telugu,Medical Instructions
+Turn right,కుడివైపుకు తిరగండి,Telugu,Medical Instructions
+We will change your diapers,మేము మీ డైపర్లను మారుస్తాము,Telugu,Medical Instructions
+Lift up your leg,మీ కాలు పైకి ఎత్తండి,Telugu,Medical Instructions
+We are going to sit you up,మేము మిమ్మల్ని కూర్చునేలా చేస్తాము,Telugu,Medical Instructions
+We are going to shift you up the bed,మేము మిమ్మల్ని మంచం పైకి జరుపుబోతున్నాము,Telugu,Medical Instructions
+We are going to clean your mouth,మేము మీ నోరు శుభ్రం చేయబోతున్నాం,Telugu,Medical Instructions
+Do not swallow the gargle,మీ నోటిలో ఉన్నదాన్ని మింగకండి,Telugu,Medical Instructions
+I am a doctor. I do not speak Turkish. I will communicate with you using this website. Answer me in English as much as possible. Thank you.,Ben doktorum. Ben Bulgar konuşmuyorum. Bunu web sitesini kullanarak iletişim kurar. mümkün olduğunca İngilizce olarak cevap ver. Teşekkür ederim.,Turkish,Greetings
+What's your name?,Adınız ne?,Turkish,Greetings
+Please give me your Identitification Card / Work Permit,Bana Identitification Kart / Çalışma İzni verin,Turkish,Greetings
+"In the last 14 days, did you meet anyone who has coronavirus?","Son 14 gün içinde, coronavirüs olan herkes tanıştınız?",Turkish,Contact with Others
+Who? What is your relationship with them?,DSÖ? onlarla ilişkiniz nedir?,Turkish,Contact with Others
+How many days ago did you meet them? (There is a number chart in the sidebar if they cannot answer),Kaç gün önce onları tanıştınız? (Bir sayı grafik onlar cevap veremez eğer kenar çubuğunda yoktur),Turkish,Contact with Others
+How long were you with him/her?,Ne zamandır onunla / onunla neredeydiniz?,Turkish,Contact with Others
+"In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.","Son 14 gün içinde, Singapur dışına seyahat oldu? evet, bize İngilizce olarak ülkeleri söyle.",Turkish,Contact with Others
+Do you have a fever?,Ateşin var mı?,Turkish,Symptoms
+"How many days?
+(You may use this for multiple symptoms)","Kaç gün?
+(Birden belirtiler için bunu kullanabilir)",Turkish,Symptoms
+"Did you measure it with a thermometer? If you did, what was the highest reading?","bunu bir termometre ile ölçülmesi mü? Eğer olsaydı, en yüksek okuma neydi?",Turkish,Symptoms
+Runny nose?,Burun akması?,Turkish,Symptoms
+Cough?,Öksürük?,Turkish,Symptoms
+Sore throat?,Boğaz ağrısı?,Turkish,Symptoms
+Difficulty breathing?,Zorluk nefes?,Turkish,Symptoms
+Do you have diarrhoea? How many times a day?,İshal var mı? Günde kaç defa?,Turkish,Symptoms
+Rash?,Döküntü?,Turkish,Symptoms
+"Any pain? Specifically, any chest pain?","Herhangi ağrısı? Özellikle, herhangi bir göğüs ağrısı?",Turkish,Symptoms
+Point to the place.,yere gelin.,Turkish,Symptoms
+Do you have any past medical history?,Eğer herhangi bir geçmiş tıbbi geçmişi var mı?,Turkish,Medical Conditions
+Please point to which ones.,hangilerinin işaret edin.,Turkish,Medical Conditions
+Asthma,Astım,Turkish,Medical Conditions
+Pneumonia,Akciğer iltihaplanması,Turkish,Medical Conditions
+Hypertension,Hipertansiyon,Turkish,Medical Conditions
+Hyperlipidemia,hiperlipidemi,Turkish,Medical Conditions
+Diabetes,Şeker hastalığı,Turkish,Medical Conditions
+Heart problems,Kalp sorunları,Turkish,Medical Conditions
+Kidney problems,Böbrek sorunları,Turkish,Medical Conditions
+Loss of taste,tat kaybı,Turkish,Symptoms
+Lost of Smell,Kokuları Kayıp,Turkish,Symptoms
+Do you have a drug allergy?,Eğer bir ilaç alerjisi var mı?,Turkish,Medical Conditions
+"Do you smoke? If yes, how many cigarettes a day?",Sigara içer misiniz? evet kaç sigara günde ise?,Turkish,Medical Conditions
+"Do you drink? If yes, how much (number of bottles a week, type of alcohol)?","İçiyor musun? evet ise, ne kadar (şişelerin sayısı haftada alkolün türü)?",Turkish,Medical Conditions
+"If you have any other problems, you can tell me in English.","Eğer başka sorunlarınız varsa, İngilizce olarak bana söyleyebilir.",Turkish,Medical Conditions
+I’m going to examine you.,Sizi muayene edeceğim.,Turkish,Medical Instructions
+Tell me if you feel more pain.,Daha ağrınız olursa söyle.,Turkish,Medical Instructions
+Please remove your shirt.,Gömleğini kaldırın.,Turkish,Medical Instructions
+Keep taking deep breaths through your mouth.,Ağzından derin nefes almaya devam edebilirsiniz.,Turkish,Medical Instructions
+"Say ""99"" when I listen with my stethoscope.","Benim steteskop ile dinlerken ""99"" de.",Turkish,Medical Instructions
+I'm going to put this cotton bud into your nostril. You will feel strange but it is not painful,Ben senin burun deliği içine bu pamuk koymak için gidiyorum. Garip hissedecek ama acı değildir,Turkish,Medical Instructions
+This is to test for coronavirus,Bu coronavirüs için teste olduğunu,Turkish,Medical Instructions
+Tilt your head back,Kafanın arka eğin,Turkish,Medical Instructions
+"If coronavirus positive, we call your phone by tomorrow.","coronavirüs pozitifliği, biz yarın telefonunuzu arayın.",Turkish,Medical Instructions
+"If coronavirus negative, we send you SMS (text) after 3 days","coronavirüs negatif, biz 3 gün sonra (metin) SMS göndermek",Turkish,Medical Instructions
+"Later, you will do an X-ray","Daha sonra, bir X-ray yapacak",Turkish,Medical Instructions
+There is no sign of infection on your X-ray,X-ray enfeksiyon belirtisi yok,Turkish,Medical Instructions
+You can go back soon.,Yakında geri dönebilirsin.,Turkish,Medical Instructions
+"Wait here, do not leave this area","Bu alanı terk etme, burada bekle",Turkish,Medical Instructions
+You have to stay in the hospital for a few days,Birkaç gün hastanede kalmak zorunda,Turkish,Medical Instructions
+We need to transfer you to another location.,Biz başka bir yere transfer etmemiz gerekiyor.,Turkish,Medical Instructions
+I'll give you medicine to make you feel better,Sana daha iyi hissetmek için ilaç vereceğiz,Turkish,Medical Instructions
+You must not work for next 5 days.,Önümüzdeki 5 gün boyunca çalışmak olmamalıdır.,Turkish,Medical Instructions
+You must come back if you have problems with breathing.,Eğer nefes sorunları varsa geri gelmek zorundadır.,Turkish,Medical Instructions
+You must come back if you do not recover completely after 5 days,Eğer 5 gün sonra tamamen iyileşir etmezseniz geri gelmelidir,Turkish,Medical Instructions
+Read the handout carefully,dikkatle sadaka Oku,Turkish,Medical Instructions
+Thank you,teşekkür ederim,Turkish,Greetings
+Good morning / afternoon / evening,sabah / öğleden sonra / İyi akşamlar,Turkish,Greetings
+I am the nurse,Ben hemşireyim,Turkish,Greetings
+I am the doctor,ben doktorum,Turkish,Greetings
+You are in the intensive care unit.,Yoğun bakım ünitesinde bulunmaktadır.,Turkish,Medical Instructions
+Today is Monday,Bugün Pazartesi,Turkish,Greetings
+Today is Tuesday,Bugün salı,Turkish,Greetings
+Today is Wednesday,Bugün çarşamba,Turkish,Greetings
+Today is Thursday,Bugün perşembe,Turkish,Greetings
+Today is Friday,Bugün cuma,Turkish,Greetings
+Today is Saturday,Bugün Cumartesi,Turkish,Greetings
+Today is Sunday,Bugün Pazar,Turkish,Greetings
+You are getting better,Sen daha iyiye gidiyor,Turkish,Greetings
+We will remove the breathing tube when you are better,Daha iyi olduğunda biz solunum tüpü kaldıracaktır,Turkish,Medical Instructions
+You can talk after we remove the breathing tube,Biz solunum tüpü kaldırdıktan sonra konuşabiliriz,Turkish,Medical Instructions
+Take a deep breath,Derin bir nefes al,Turkish,Medical Instructions
+Give me a big cough,Bana kocaman öksürük ver,Turkish,Medical Instructions
+Don’t struggle,uğraşma,Turkish,Medical Instructions
+Don’t move,kımıldama,Turkish,Medical Instructions
+Lift up your arm,Kolunu kaldır,Turkish,Medical Instructions
+Lift up your leg,Bacağını yukarı kaldırın,Turkish,Medical Instructions
+Squeeze my hand,Elimi sık,Turkish,Medical Instructions
+Show me two fingers,Bana iki parmak göster,Turkish,Medical Instructions
+Open your mouth,Ağzını aç,Turkish,Medical Instructions
+Stick out your tongue,Dilini çıkar,Turkish,Medical Instructions
+Open your eyes,Gözlerini aç,Turkish,Medical Instructions
+I’m going to shine a light into your eyes. It will be bright.,Gözlerinin içine ışık tutmak için gidiyorum. Aydınlık olacak.,Turkish,Medical Instructions
+Your lungs are weak. We are going to insert a breathing tube to help you breathe,Akciğerlerin zayıftır. Biz nefes yardımcı olacak bir solunum tüpü takmak için gidiyoruz,Turkish,Medical Instructions
+You are going to sleep now,Şimdi uyumaya gidiyorsun,Turkish,Medical Instructions
+We are turning you onto your belly to help your lungs expand,Biz ciğerlerin genişletmek yardımcı olmak için göbek üzerine size dönüyor,Turkish,Medical Instructions
+We are inserting a tube to help you pass urine,Biz çok yardımcı olacak bir tüp takmadan olan idrara,Turkish,Medical Instructions
+We are inserting a tube through your nose,Biz Burnunuzdan bir tüp takmadan edilir,Turkish,Medical Instructions
+We are going to give you an injection in your neck to give you medications,Size ilaç vermek için boyun size iğne olacak,Turkish,Medical Instructions
+We are going to give you an injection in your arm to measure your blood pressure,Biz tansiyonunuzu ölçmek için kolunuzda size iğne olacak,Turkish,Medical Instructions
+We will give you sleeping medications.,Size uyku ilaçları verecektir.,Turkish,Medical Instructions
+We will give you painkillers.,Size ağrı kesici verecektir.,Turkish,Medical Instructions
+We are giving you medication to keep your blood pressure up.,Size tansiyonunuzu yetişmek için ilaç veriyoruz.,Turkish,Medical Instructions
+We are going to remove the breathing tube.,Biz solunum tüpü çıkarması için gidiyoruz.,Turkish,Medical Instructions
+We are going to suck out your phlegm,Biz balgamı dışarı emmek için gidiyoruz,Turkish,Medical Instructions
+We are going to clean you with a sponge,Biz bir sünger ile temizlemek için gidiyoruz,Turkish,Medical Instructions
+Turn left,sola,Turkish,Medical Instructions
+Turn right,Sağa dönün,Turkish,Medical Instructions
+We will change your diapers,Biz bezini değişecek,Turkish,Medical Instructions
+Lift up your leg,Bacağını yukarı kaldırın,Turkish,Medical Instructions
+We are going to sit you up,Seni yukarı oturmak için gidiyoruz,Turkish,Medical Instructions
+We are going to shift you up the bed,Yatağın kadar sizi kaydırmaya olacak,Turkish,Medical Instructions
+We are going to clean your mouth,Biz ağzını temizlemek için gidiyoruz,Turkish,Medical Instructions
+Do not swallow the gargle,gargara yutmayın,Turkish,Medical Instructions
+I am a doctor. I do not speak Vietnamese. I will communicate with you using this website. Answer me in English as much as possible. Thank you.,Tôi là bác sĩ. Tôi không biết tiếng Việt. Tôi sẽ sử dụng trang web này để nói chuyện với anh/ chị. Hãy cố gắng trả lời tôi bằng tiếng Anh càng nhiều càng tốt. Xin cảm ơn.,Vietnamese,Greetings
+What's your name?,"Anh/chị tên là gì? (Use anh for male, chị for female)",Vietnamese,Greetings
+Please give me your Identitification Card / Work Permit,"Làm ơn cho tôi xem giấy chứng từ, thẻ căn cước, giấy phép lao động.",Vietnamese,Greetings
+"In the last 14 days, did you meet anyone who has coronavirus?","Trong vòng 14 ngày qua, anh chị có gặp ai nhiễm covid không?",Vietnamese,Contact with Others
+Who? What is your relationship with them?,Người đấy là ai? Mối quan hệ của anh/chị với người ấy như thế nào?,Vietnamese,Contact with Others
+How many days ago did you meet them? (There is a number chart in the sidebar if they cannot answer),Anh/ chị gặp người ấy cách đây bao lâu rồi?,Vietnamese,Contact with Others
+How long were you with him/her?,Anh/ chị gặp người ấy trong bao lâu?,Vietnamese,Contact with Others
+"In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.","Trong vòng 14 ngày qua, anh/ chị có rời khỏi Singapore không? Nếu có, hãy cho chúng tôi biết tên đất nước đó bằng tiếng Anh.",Vietnamese,Contact with Others
+Do you have a fever?,Anh/chị có sốt không?,Vietnamese,Symptoms
+"How many days?
+(You may use this for multiple symptoms)",Anh/ chị bị như vậy bao lâu rồi?,Vietnamese,Symptoms
+"Did you measure it with a thermometer? If you did, what was the highest reading?","Anh/chị đã đo nhiệt độ bằng nhiệt kế chưa? Nếu có, nhiệt độ cao nhất là gì?",Vietnamese,Symptoms
+Runny nose?,Có sổ mũi không?,Vietnamese,Symptoms
+Cough?,Có ho không?,Vietnamese,Symptoms
+Sore throat?,Có viêm họng đau họng không?,Vietnamese,Symptoms
+Difficulty breathing?,Có khó thở không?,Vietnamese,Symptoms
+Do you have diarrhoea? How many times a day?,Có tiêu chảy không? Nếu có thì anh/chị đi ngoài bao nhiêu lần 1 ngày?,Vietnamese,Symptoms
+Rash?,Có nổi ban ngứa trên da không?,Vietnamese,Symptoms
+"Any pain? Specifically, any chest pain?",Anh chị có đau chỗ nào không? Có tức ngực không?,Vietnamese,Symptoms
+Point to the place.,Hãy chỉ vào chỗ đau.,Vietnamese,Symptoms
+Do you have any past medical history?,Anh chị có tiền sử bệnh nền không?,Vietnamese,Medical Conditions
+Please point to which ones.,Hãy chỉ vào tên bệnh.,Vietnamese,Medical Conditions
+Asthma,Hen suyễn,Vietnamese,Medical Conditions
+Pneumonia,Viêm phổi,Vietnamese,Medical Conditions
+Hypertension,Huyết áp cao,Vietnamese,Medical Conditions
+Hyperlipidemia,Mỡ máu,Vietnamese,Medical Conditions
+Diabetes,Tiểu đường,Vietnamese,Medical Conditions
+Heart problems,Các bệnh về tim,Vietnamese,Medical Conditions
+Kidney problems,Các bệnh về thận,Vietnamese,Medical Conditions
+Loss of taste,Lưỡi mất vị giác,Vietnamese,Symptoms
+Lost of Smell,Mũi mất thính giác,Vietnamese,Symptoms
+Do you have a drug allergy?,Anh/chị có dị ứng với thuốc nào không,Vietnamese,Medical Conditions
+"Do you smoke? If yes, how many cigarettes a day?","Anh/chị có hút thuốc không? Nếu có, bao nhiêu điếu 1 ngày?",Vietnamese,Medical Conditions
+"Do you drink? If yes, how much (number of bottles a week, type of alcohol)?","Anh/chị có uống đồ uống có cồn không? Nếu có, bao nhiêu chai 1 tuần, loại rượu bia gì?",Vietnamese,Medical Conditions
+"If you have any other problems, you can tell me in English.","Nếu anh/chị có vấn đề gì khác, hãy nói cho tôi biết bằng tiếng Anh.",Vietnamese,Medical Conditions
+I’m going to examine you.,Bây giờ tôi sẽ khám cho anh/chị.,Vietnamese,Medical Instructions
+Tell me if you feel more pain.,Hãy nói cho tôi nếu anh/chị cảm thấy đau hơn.,Vietnamese,Medical Instructions
+Please remove your shirt.,Làm ơn bỏ áo ra.,Vietnamese,Medical Instructions
+Keep taking deep breaths through your mouth.,Hãy thở thật sâu qua miệng.,Vietnamese,Medical Instructions
+"Say ""99"" when I listen with my stethoscope.","Nói ""99"" (nai nai) khi tôi sử dụng ống nghe.",Vietnamese,Medical Instructions
+I'm going to put this cotton bud into your nostril. You will feel strange but it is not painful,Bây giờ tôi sẽ đưa que bông này vào lỗ mũi của anh/chị. Nó sẽ hơi khó chịu một chút nhưng không đau đâu.,Vietnamese,Medical Instructions
+This is to test for coronavirus,Việc này sẽ lấy mẫu thử xem anh/chị có coronavirus không.,Vietnamese,Medical Instructions
+Tilt your head back,Hãy ngửa đầu ra phía sau.,Vietnamese,Medical Instructions
+"If coronavirus positive, we call your phone by tomorrow.","Nếu anh/chị dương tính, chúng tôi sẽ gọi điện thoại vào ngày mai.",Vietnamese,Medical Instructions
+"If coronavirus negative, we send you SMS (text) after 3 days","Nếu anh/chị âm tính, chúng tôi sẽ nhắn tin sau 3 ngày.",Vietnamese,Medical Instructions
+"Later, you will do an X-ray",Lát nữa anh/chị sẽ đi chụp Xquang,Vietnamese,Medical Instructions
+There is no sign of infection on your X-ray,Xquang không có dấu hiệu viêm nhiễm nào cả,Vietnamese,Medical Instructions
+You can go back soon.,Anh/chị sắp được về rồi,Vietnamese,Medical Instructions
+"Wait here, do not leave this area",Hãy đợi ở đây và không ra khỏi khu vực này,Vietnamese,Medical Instructions
+You have to stay in the hospital for a few days,Anh/chị sẽ phải ở lại viện vài ngày,Vietnamese,Medical Instructions
+We need to transfer you to another location.,Chúng tôi sẽ chuyển anh/chị đến một cơ sở điều trị khác,Vietnamese,Medical Instructions
+I'll give you medicine to make you feel better,Tôi sẽ đưa anh/chị thuốc để giúp anh/chị cảm thấy khoẻ hơn,Vietnamese,Medical Instructions
+You must not work for next 5 days.,Anh/chị không được phép đi làm trong vòng 5 ngày tới,Vietnamese,Medical Instructions
+You must come back if you have problems with breathing.,Anh/chị phải quay lại viện nếu thấy mình có triệu chứng khó thở,Vietnamese,Medical Instructions
+You must come back if you do not recover completely after 5 days,Anh/chị phải quay lại nếu triệu chứng không thuyên giảm sau 5 ngày,Vietnamese,Medical Instructions
+Read the handout carefully,Hãy đọc kỹ tờ thông tin này,Vietnamese,Medical Instructions
+Thank you,Cảm ơn,Vietnamese,Greetings
+Good morning / afternoon / evening,Chào buổi sáng/ buổi chiều/ buổi tối,Vietnamese,Greetings
+I am the nurse,Tôi là y tá,Vietnamese,Greetings
+I am the doctor,Tôi là bác sĩ,Vietnamese,Greetings
+You are in the intensive care unit.,Anh/chị đang ở trong khu vực chăm sóc đặc biệt,Vietnamese,Medical Instructions
+Today is Monday,Hôm nay là Thứ 2,Vietnamese,Greetings
+Today is Tuesday,Hôm nay là thứ 3,Vietnamese,Greetings
+Today is Wednesday,Hôm nay là thứ 4,Vietnamese,Greetings
+Today is Thursday,Hôm nay là thứ 5,Vietnamese,Greetings
+Today is Friday,Hôm nay là thứ 6,Vietnamese,Greetings
+Today is Saturday,Hôm nay là thứ 7,Vietnamese,Greetings
+Today is Sunday,Hôm nay là chủ nhật,Vietnamese,Greetings
+You are getting better,Anh/chị đang khoẻ lên đấy,Vietnamese,Greetings
+We will remove the breathing tube when you are better,Chúng tôi sẽ gỡ ống thở khi anh/chị khoẻ lên,Vietnamese,Medical Instructions
+You can talk after we remove the breathing tube,Anh/chị có thể nói sau khi ống thở được gỡ ra,Vietnamese,Medical Instructions
+Take a deep breath,Hãy hít một hơi sâu,Vietnamese,Medical Instructions
+Give me a big cough,Hãy ho một cái thật to,Vietnamese,Medical Instructions
+Don’t struggle,Đừng cựa quậy,Vietnamese,Medical Instructions
+Don’t move,Đừng di chuyển,Vietnamese,Medical Instructions
+Lift up your arm,Giơ tay lên nào,Vietnamese,Medical Instructions
+Lift up your leg,Giơ chân lên nào,Vietnamese,Medical Instructions
+Squeeze my hand,Nắm chặt lấy tay tôi,Vietnamese,Medical Instructions
+Show me two fingers,Giơ 2 ngón tay nào,Vietnamese,Medical Instructions
+Open your mouth,Há miệng ra,Vietnamese,Medical Instructions
+Stick out your tongue,Thè lưỡi ra,Vietnamese,Medical Instructions
+Open your eyes,Mở mắt ra,Vietnamese,Medical Instructions
+I’m going to shine a light into your eyes. It will be bright.,Tôi sẽ chiếu đèn pin vào mắt anh/chị. Sẽ hơi chói đấy.,Vietnamese,Medical Instructions
+Your lungs are weak. We are going to insert a breathing tube to help you breathe,Phổi của anh/chị rất yếu. Chúng tôi sẽ sử dụng ống thở để giúp anh/chị thở tốt hơn.,Vietnamese,Medical Instructions
+You are going to sleep now,Anh/chị sẽ đi ngủ bây giờ.,Vietnamese,Medical Instructions
+We are turning you onto your belly to help your lungs expand,Chúng tôi sẽ lật anh/chị nằm úp để phổi có thể thở tốt hơn.,Vietnamese,Medical Instructions
+We are inserting a tube to help you pass urine,Chúng tôi sẽ đặt ống tiểu,Vietnamese,Medical Instructions
+We are inserting a tube through your nose,Chúng tôi sẽ đặt ống thông qua đường mũi,Vietnamese,Medical Instructions
+We are going to give you an injection in your neck to give you medications,Chúng tôi sẽ tiêm thuốc vào mạch cổ,Vietnamese,Medical Instructions
+We are going to give you an injection in your arm to measure your blood pressure,Chúng tôi sẽ tiêm vào cánh tay để đo huyết áp của anh/chị,Vietnamese,Medical Instructions
+We will give you sleeping medications.,Chúng tôi sẽ cho anh/chị thuốc ngủ,Vietnamese,Medical Instructions
+We will give you painkillers.,Chúng tôi sẽ cho anh/chị thuốc giảm đau,Vietnamese,Medical Instructions
+We are giving you medication to keep your blood pressure up.,Chúng tôi sẽ cho anh/chị thuốc tăng huyết áp,Vietnamese,Medical Instructions
+We are going to remove the breathing tube.,Chúng tôi sẽ gỡ ống thở,Vietnamese,Medical Instructions
+We are going to suck out your phlegm,Chúng tôi sẽ hút dịch đờm,Vietnamese,Medical Instructions
+We are going to clean you with a sponge,Chúng tôi sẽ lau người anh/chị bằng miếng mút,Vietnamese,Medical Instructions
+Turn left,Quay sang trái,Vietnamese,Medical Instructions
+Turn right,Quay sang phải,Vietnamese,Medical Instructions
+We will change your diapers,Chúng tôi sẽ thay tã cho anh/chị,Vietnamese,Medical Instructions
+Lift up your leg,Giơ chân lên nào,Vietnamese,Medical Instructions
+We are going to sit you up,Chúng tôi sẽ đỡ anh/chị ngồi dậy,Vietnamese,Medical Instructions
+We are going to shift you up the bed,Chúng tôi sẽ kéo anh/chị lên đầu giướng nhé,Vietnamese,Medical Instructions
+We are going to clean your mouth,Chúng tôi sẽ lau miệng cho anh/chị,Vietnamese,Medical Instructions
+Do not swallow the gargle,"Đừng nuốt nước súc miệng, chỉ súc vòng quanh thôi",Vietnamese,Medical Instructions

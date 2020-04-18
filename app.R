@@ -27,7 +27,7 @@ ui <- fluidPage(
         sidebarPanel(
             selectInput(inputId = "language", 
                         label = "Language",
-                        choices = c("Bengali", "Chinese", "French", "German", "Italian", "Korean", "Malay", "Portugese", "Tamil"
+                        choices = c("Bengali", "Bulgarian", "Chinese", "French", "German", "Hindi", "Italian", "Korean", "Malay", "Portugese", "Tamil", "Telugu", "Turkish", "Vietnamese"
                         )),
             selectInput(inputId = "category", 
                         label = "Category",
@@ -58,9 +58,8 @@ ui <- fluidPage(
                                  patients and doctors."),
                                  br(),
                                  p("The translation for the different languages was a true team effort and this web-app would not 
-                                 be possible without the kind help from so many contributors. Louisa, Kyung Suk Lee, Gabriel Lee, Agnes Ang and Hoang Luong. 
-                                 We are currently working on adding more languages. The Tamil and Bengali were taken from Sudesna's
-                                 website."), 
+                                 be possible without the kind help from so many contributors. We are currently working on adding more languages. 
+                                 The Tamil and Bengali were taken from Sudesna's website."), 
                                  br(),
                                  p("If you have any questions / feedback or would like to contribute, please feel free to 
                                  shoot me an email at gl2668@columbia.edu. I welcome and greatly appreciate it!",
